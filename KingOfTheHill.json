@@ -1,112 +1,155 @@
 {
     "LastCapturePoint": -1,
     "ConfigVersion": "1",
-    "Interval": 1800.0,
-    "StartDelay": 900.0,
-    "CaptureTime": 900.0,
-    "EmptyEventTimeOut": 1800.0,
-    "CleanUpTime": 600.0,
-    "PreStartDelay": 300.0,
+    "Interval": 1800,
+    "StartDelay": 600,
+    "CaptureTime": 900,
+    "EmptyEventTimeOut": 1200,
+    "CleanUpTime": 600,
+	"PreStartDelay": 600,
     "Hills": [
         {
-            "Name": "Asgard Castle",
-            "X": 8920,
-            "Y": 501.25,
-            "Z": 13177,
-            "CaptureRadius": 15.0,
-            "EventRadius": 100.0,
-            "ZombieCount": 10,
-            "Objects": []
+            "Name": "Portland",
+            "X": 6492.55,
+            "Y": 37.25,
+            "Z": 14660,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
         },
-        {
-            "Name": "Tisovik",
-            "X": 12130,
-            "Y": 0,
-            "Z": 15030,
-            "CaptureRadius": 15.0,
-            "EventRadius": 100.0,
-            "ZombieCount": 10,
-            "Objects": []
+		{
+            "Name": "North of Sandy Bay",
+            "X": 5126.03,
+            "Y": 6.86172,
+            "Z": 9032.14,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
         },
-        {
-            "Name": "Military Obsidian",
-            "X": 4261,
-            "Y": 258.362793,
-            "Z": 14384,
-            "CaptureRadius": 15.0,
-            "EventRadius": 100.0,
-            "ZombieCount": 10,
-            "Objects": []
+		{
+            "Name": "RCFI Military",
+            "X": 3743.38,
+            "Y": 11.54,
+            "Z": 8685.37,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
         },
-        {
-            "Name": "Hrabice Airport",
-            "X": 2069,
-            "Y": 0,
-            "Z": 11744,
-            "CaptureRadius": 15.0,
-            "EventRadius": 100.0,
-            "ZombieCount": 10,
-            "Objects": []
+			{
+            "Name": "RCFI Military",
+            "X": 3562.58,
+            "Y": 11.833,
+            "Z": 8866.689,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
         },
-        {
-            "Name": "Hrabice Airport",
-            "X": 2007,
-            "Y": 0,
-            "Z": 11404,
-            "CaptureRadius": 15.0,
-            "EventRadius": 100.0,
-            "ZombieCount": 10,
-            "Objects": []
+		{
+            "Name": "Camp Bear",
+            "X": 8886.8,
+            "Y": 22.231,
+            "Z": 5965.395,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
         },
-        {
-            "Name": "Alica Airport",
-            "X": 4878,
-            "Y": 0,
-            "Z": 4778,
-            "CaptureRadius": 15.0,
-            "EventRadius": 100.0,
-            "ZombieCount": 10,
-            "Objects": []
+		{
+            "Name": "Westbrook Military",
+            "X": 3718.35,
+            "Y": 32.3857,
+            "Z": 6243.71,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
         },
-        {
-            "Name": "Pepelova Military",
-            "X": 312,
-            "Y": 0,
-            "Z": 5932,
-            "CaptureRadius": 15.0,
-            "EventRadius": 100.0,
-            "ZombieCount": 10,
-            "Objects": []
+		{
+            "Name": "Paris Island",
+            "X": 2537.15,
+            "Y": 22.45,
+            "Z": 3493.9,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
         },
-        {
-            "Name": "Happy Bombs",
-            "X": 868,
-            "Y": 0,
-            "Z": 8983,
-            "CaptureRadius": 15.0,
-            "EventRadius": 100.0,
-            "ZombieCount": 10,
-            "Objects": []
+		{
+            "Name": "Paris Island",
+            "X": 2481.82,
+            "Y": 22.462,
+            "Z": 3352.09,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
         },
-        {
-            "Name": "Outpost Arkaria",
-            "X": 6172,
-            "Y": 0,
-            "Z": 2016,
-            "CaptureRadius": 15.0,
-            "EventRadius": 100.0,
-            "ZombieCount": 10,
-            "Objects": []
+		{
+            "Name": "Prison",
+            "X": 5393.53,
+            "Y": 34.8525,
+            "Z": 687.13,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
         },
-        {
-            "Name": "Jankov Vrsok",
-            "X": 13821,
-            "Y": 0,
-            "Z": 3759,
-            "CaptureRadius": 15.0,
-            "EventRadius": 100.0,
-            "ZombieCount": 10,
-            "Objects": []
+		{
+            "Name": "Camp Wolf",
+            "X": 5491.98,
+            "Y": 6.6425,
+            "Z": 1111.38,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Airfield",
+            "X": 5607.13,
+            "Y": 74.152,
+            "Z": 3673.73,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Airfield",
+            "X": 5428.10,
+            "Y": 74.147,
+            "Z": 3802.981,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Camp Eagle",
+            "X": 8834.75,
+            "Y": 45.42,
+            "Z": 3797.19,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
         }
     ],
     "RewardPools": [
