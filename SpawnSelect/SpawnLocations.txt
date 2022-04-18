@@ -1,7 +1,11 @@
-Timoradza=4600 0 11078=1000
-Slatina nad Bebravou=6633 0 13749=1000
-Geothermal Park=13864 0 9124=1000
-Horne Nastice=8996 0 3363=1000
-Hornany=1756 0 7779=1000
-Sliezska Osada=2080 0 2161=1000
-Latkovce=13059 0 505=1000
+Stonington=6508 0 2198=1000
+Hazelands=4418 0 3275=1000
+Kushville=7368 0 3775=1000
+Oceanville=10148 0 4929=1000
+Sunset Cross=6436 0 6401=1000
+Georgestown=4719 0 4435=1000
+Old Town=2070 0 8980=1000
+Sandy Bay=5304 0 7979=1000
+Waldoboro=8736 0 9223=1000
+Eastbrook=10391 0 7974=1000
+Portland=6328 0 14632=1000
