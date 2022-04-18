@@ -1,7 +1,8 @@
 {
+    "Version": "2.3",
     "IDs": [
         {
-            "EnableStockAllCategoryForID": 1,
+            "Id": 0,
             "Categories": [
                 "Licences",
                 "Vegetables",
@@ -17,7 +18,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 1,
+            "Id": 0,
             "Categories": [
                 "Melee",
                 "Sidearms",
@@ -41,7 +42,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 1,
+            "Id": 0,
             "Categories": [
                 "Tools",
                 "Heavy Tools",
@@ -55,7 +56,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 1,
+            "Id": 0,
             "Categories": [
                 "Glasses",
                 "Armbands",
@@ -79,7 +80,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 1,
+            "Id": 0,
             "Categories": [
                 "Vehicles",
                 "Vehicle Parts",
@@ -89,7 +90,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 1,
+            "Id": 0,
             "Categories": [
                 "Helicopters",
                 "Helicopter Parts"
@@ -98,7 +99,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 1,
+            "Id": 0,
             "Categories": [
                 "BM Weapons",
                 "BM Mags",
@@ -109,7 +110,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 1,
+            "Id": 0,
             "Categories": [
                 "BM Drugs"
             ],
