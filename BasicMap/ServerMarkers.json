@@ -1,0 +1,48 @@
+[
+    {
+        "Name": "Safezone Trader",
+        "Pos": [
+			7800.0,
+			237.0,
+			7220.0
+        ],
+        "Icon": "BasicMap\\gui\\images\\cart.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+			0,
+			255,
+			0
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "banov",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    },
+    {
+        "Name": "Black Market",
+        "Pos": [
+			388.0,
+			0.0,
+			14696.0
+        ],
+        "Icon": "BasicMap\\gui\\images\\guns.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+			255,
+			0,
+			0
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "banov",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    }
+]

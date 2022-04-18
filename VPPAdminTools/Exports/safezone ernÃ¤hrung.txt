@@ -1,0 +1,43 @@
+void SpawnObject(string objType, vector objPos, vector objOrientation)
+{
+	Object m_Building = Object.Cast(GetGame().CreateObject(objType, objPos));
+	if (m_Building == null) return;
+	m_Building.SetAffectPathgraph(true, false);
+	GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(GetGame().UpdatePathgraphRegionByObject, 100, false, m_Building);
+	m_Building.SetPosition(objPos);
+	m_Building.SetOrientation(objOrientation);
+}
+
+
+
+SpawnObject( "Land_Misc_Well_Pump_Yellow", "7800.009766 238.000000 7239.799805", "-108.001244 0.000000 -0.000000" );
+SpawnObject( "vbldr_misc_woodtable_outdoor", "7804.470215 237.699997 7244.990234", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_misc_woodtable_outdoor", "7804.330078 237.699997 7249.720215", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_misc_woodtable_indoor", "7798.569824 237.649994 7245.500000", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_misc_woodtable_indoor", "7798.540039 237.649994 7249.569824", "0.000000 0.000000 -0.000000" );
+SpawnObject( "land_chz_traktor_1", "7768.310059 238.199997 7225.000000", "-41.999828 0.000000 0.000000" );
+SpawnObject( "vbldr_pultskasou", "7811.270020 238.000000 7244.330078", "89.104713 0.000000 -0.000000" );
+SpawnObject( "vbldr_icebox", "7812.990234 236.000000 7241.160156", "175.999985 0.000000 -0.000000" );
+SpawnObject( "vbldr_shelf_1side", "7815.200195 237.345001 7243.879883", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_path_panels", "7813.089844 237.300003 7253.640137", "-92.001938 0.000000 -0.000000" );
+SpawnObject( "vbldr_path_panels", "7809.410156 237.300003 7253.439941", "87.998047 0.000000 -0.000000" );
+SpawnObject( "vbldr_path_panels", "7805.879883 237.300003 7253.359863", "-92.969528 0.000000 -0.000000" );
+SpawnObject( "vbldr_path_panels", "7797.600098 237.201004 7256.720215", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_path_panels", "7802.229980 237.300003 7253.180176", "-92.969528 0.000000 -0.000000" );
+SpawnObject( "vbldr_path_panels", "7798.580078 237.300003 7252.979980", "-92.969528 0.000000 -0.000000" );
+SpawnObject( "vbldr_path_rock_10", "7801.200195 237.201004 7247.379883", "-4.000385 0.000000 0.000000" );
+SpawnObject( "vbldr_path_rock_10", "7800.910156 237.201004 7247.250000", "-94.986099 0.000000 -0.000000" );
+SpawnObject( "vbldr_wall_gate_fen2_r", "7815.399902 238.500000 7241.430176", "88.998299 1.000210 179.982986" );
+SpawnObject( "vbldr_monument_wall", "7807.000000 238.389999 7240.950195", "178.999786 0.000000 -0.000000" );
+SpawnObject( "vbldr_monument_wall", "7806.299805 238.380005 7236.399902", "-1.000209 0.000000 0.000000" );
+SpawnObject( "vbldr_bakedbeans_open", "7804.950195 238.222000 7245.299805", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_bakedbeans_open", "7804.000000 238.240005 7244.950195", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_bakedbeans", "7814.990234 238.000000 7243.879883", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_bakedbeans", "7814.910156 238.649994 7243.479980", "159.998718 0.000000 -0.000000" );
+SpawnObject( "vbldr_bakedbeans", "7814.930176 238.649994 7243.339844", "128.998657 0.000000 -0.000000" );
+SpawnObject( "vbldr_bakedbeans", "7814.919922 238.649994 7243.209961", "124.999916 0.000000 -0.000000" );
+SpawnObject( "vbldr_bucket", "7799.750000 237.796005 7239.450195", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_bucket", "7798.120117 237.201004 7240.310059", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_bucket", "7798.160156 237.201004 7239.939941", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_bucket", "7798.080078 237.201004 7239.430176", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_bucket", "7798.270020 237.300003 7239.589844", "24.996946 -79.000351 0.003081" );

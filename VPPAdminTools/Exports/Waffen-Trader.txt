@@ -1,0 +1,29 @@
+void SpawnObject(string objType, vector objPos, vector objOrientation)
+{
+	Object m_Building = Object.Cast(GetGame().CreateObject(objType, objPos));
+	if (m_Building == null) return;
+	m_Building.SetAffectPathgraph(true, false);
+	GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(GetGame().UpdatePathgraphRegionByObject, 100, false, m_Building);
+	m_Building.SetPosition(objPos);
+	m_Building.SetOrientation(objOrientation);
+}
+
+
+
+SpawnObject( "Land_Wall_Gate_Fen2_L", "0.000000 -5000.000000 0.000000", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_misc_table_camp", "7796.430176 237.800003 7239.930176", "-2.000720 0.000000 0.000000" );
+SpawnObject( "Land_Wall_Gate_Fen2_L", "0.000000 -5000.000000 0.000000", "180.000000 0.000000 -180.000000" );
+SpawnObject( "vbldr_misc_gunrack", "7797.169922 237.699997 7236.629883", "87.998047 0.000000 -0.000000" );
+SpawnObject( "vbldr_tent_gunrack_prx", "7796.020020 237.699997 7236.580078", "90.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_tent_gunrack_prx", "7794.879883 237.699997 7236.589844", "90.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_akm", "7797.080078 238.199005 7239.959961", "-150.770599 -89.104523 176.769455" );
+SpawnObject( "vbldr_magazine_akm_palm30", "7797.049805 238.199997 7240.009766", "90.000000 -89.013435 -36.999496" );
+SpawnObject( "vbldr_mosin_sawn", "7795.899902 238.199997 7239.959961", "-179.999985 -89.980209 -0.000000" );
+SpawnObject( "vbldr_winchester70", "7796.319824 237.800003 7236.669922", "94.006310 -2.000723 101.998703" );
+SpawnObject( "vbldr_svd", "7795.709961 237.800003 7236.479980", "89.104713 0.000000 110.001266" );
+SpawnObject( "vbldr_akm", "7797.029785 237.509995 7237.169922", "5.001576 16.999199 96.014221" );
+SpawnObject( "vbldr_mil_camonet_roof_east", "7793.000000 239.000000 7245.000000", "1.000209 0.000000 -0.000000" );
+SpawnObject( "vbldr_roadblock_bags_long", "7793.220215 237.201004 7242.080078", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_roadblock_bags_curve", "7800.189941 238.000000 7234.500000", "-93.003563 -1.000209 -0.448261" );
+SpawnObject( "vbldr_wall_gate_fen2_r", "7796.089844 237.699997 7240.600098", "177.998978 0.000000 -179.999985" );
+SpawnObject( "vbldr_metal_plates_up", "7795.399902 237.800003 7240.620117", "0.000000 0.000000 -0.000000" );

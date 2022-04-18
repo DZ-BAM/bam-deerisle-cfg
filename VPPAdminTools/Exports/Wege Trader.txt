@@ -1,0 +1,22 @@
+void SpawnObject(string objType, vector objPos, vector objOrientation)
+{
+	Object m_Building = Object.Cast(GetGame().CreateObject(objType, objPos));
+	if (m_Building == null) return;
+	m_Building.SetAffectPathgraph(true, false);
+	GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(GetGame().UpdatePathgraphRegionByObject, 100, false, m_Building);
+	m_Building.SetPosition(objPos);
+	m_Building.SetOrientation(objOrientation);
+}
+
+
+
+SpawnObject( "vbldr_path_panels", "7794.939941 237.300003 7252.790039", "-92.969528 0.000000 -0.000000" );
+SpawnObject( "vbldr_path_panels", "7791.259766 237.300003 7252.540039", "87.030457 0.000000 -0.000000" );
+SpawnObject( "vbldr_path_panels", "7787.629883 237.300003 7252.359863", "87.030457 0.000000 -0.000000" );
+SpawnObject( "vbldr_path_panels", "7784.009766 237.300003 7252.160156", "87.030457 0.000000 -0.000000" );
+SpawnObject( "vbldr_path_panels", "7780.370117 237.300003 7251.990234", "87.030457 0.000000 -0.000000" );
+SpawnObject( "vbldr_path_panels", "7777.959961 237.300003 7250.759766", "-2.998346 0.000000 0.000000" );
+SpawnObject( "vbldr_path_panels", "7778.140137 237.300003 7247.140137", "-2.998346 0.000000 0.000000" );
+SpawnObject( "vbldr_path_panels", "7778.339844 237.300003 7243.500000", "-2.998346 0.000000 0.000000" );
+SpawnObject( "vbldr_path_panels", "7778.529785 237.300003 7239.870117", "-2.998346 0.000000 0.000000" );
+SpawnObject( "vbldr_path_panels", "7778.750000 237.300003 7236.259766", "-2.998803 1.000209 0.012637" );

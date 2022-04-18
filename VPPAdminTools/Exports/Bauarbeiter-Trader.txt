@@ -1,0 +1,30 @@
+void SpawnObject(string objType, vector objPos, vector objOrientation)
+{
+	Object m_Building = Object.Cast(GetGame().CreateObject(objType, objPos));
+	if (m_Building == null) return;
+	m_Building.SetAffectPathgraph(true, false);
+	GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(GetGame().UpdatePathgraphRegionByObject, 100, false, m_Building);
+	m_Building.SetPosition(objPos);
+	m_Building.SetOrientation(objOrientation);
+}
+
+
+
+SpawnObject( "land_chz_ekskavator", "7797.700195 239.600006 7269.560059", "14.998220 0.000000 -0.000000" );
+SpawnObject( "vbldr_ytong_prx", "7809.180176 237.776001 7272.990234", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_ytong_prx", "7807.359863 237.776001 7272.669922", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_ytong_prx", "7805.520020 237.776001 7272.750000", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_pipe_big_prx", "7807.250000 237.776001 7274.229980", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_mine_heap", "7828.049805 236.000000 7275.459961", "92.001938 0.000000 -0.000000" );
+SpawnObject( "vbldr_misc_concretepipe", "7807.319824 239.000000 7282.490234", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_misc_concretepipe", "7806.169922 241.000000 7282.600098", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_misc_concretepipe", "7804.870117 238.990005 7282.339844", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_misc_pipes353", "7794.879883 238.470001 7281.299805", "-50.000690 0.000000 0.000000" );
+SpawnObject( "vbldr_misc_gcontainer_big", "7838.459961 238.380005 7281.700195", "-50.000690 0.000000 0.000000" );
+SpawnObject( "vbldr_ytong_prx", "7806.350098 239.634995 7272.660156", "0.000000 0.000000 -0.000000" );
+SpawnObject( "land_chz_buldozer", "7818.589844 240.440002 7273.299805", "-104.011505 -26.999289 0.999031" );
+SpawnObject( "land_chz_katok_1", "7838.310059 239.500000 7267.819824", "-21.001869 0.000000 0.000000" );
+SpawnObject( "Land_Mil_GuardShed", "7806.819824 239.000000 7263.689941", "-1.000209 0.000000 0.000000" );
+SpawnObject( "SV_StationaryGenerator", "7811.819824 239.000000 7265.180176", "87.998047 0.000000 -0.000000" );
+SpawnObject( "vbldr_oil_bottle", "7810.729980 237.776001 7267.620117", "0.000000 -1.000209 -1.000209" );
+SpawnObject( "vbldr_wheel_cart_dz", "7807.589844 237.776001 7265.700195", "18.999596 0.000000 -0.000000" );

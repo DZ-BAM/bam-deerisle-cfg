@@ -1,0 +1,327 @@
+{
+    "LastCapturePoint": -1,
+    "ConfigVersion": "1",
+    "Interval": 1800.0,
+    "StartDelay": 900.0,
+    "CaptureTime": 900.0,
+    "EmptyEventTimeOut": 1800.0,
+    "CleanUpTime": 600.0,
+    "PreStartDelay": 300.0,
+    "Hills": [
+        {
+            "Name": "Asgard Castle",
+            "X": 8920,
+            "Y": 501.25,
+            "Z": 13177,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Tisovik",
+            "X": 12130,
+            "Y": 0,
+            "Z": 15030,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Military Obsidian",
+            "X": 4261,
+            "Y": 258.362793,
+            "Z": 14384,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Hrabice Airport",
+            "X": 2069,
+            "Y": 0,
+            "Z": 11744,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Hrabice Airport",
+            "X": 2007,
+            "Y": 0,
+            "Z": 11404,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Alica Airport",
+            "X": 4878,
+            "Y": 0,
+            "Z": 4778,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Pepelova Military",
+            "X": 312,
+            "Y": 0,
+            "Z": 5932,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Happy Bombs",
+            "X": 868,
+            "Y": 0,
+            "Z": 8983,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Outpost Arkaria",
+            "X": 6172,
+            "Y": 0,
+            "Z": 2016,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Jankov Vrsok",
+            "X": 13821,
+            "Y": 0,
+            "Z": 3759,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        }
+    ],
+    "RewardPools": [
+        {
+            "Name": "1 Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TTC_FD338",
+                    "ItemAttachments": [
+                        "TTC_338mag_10rnd",
+                        "TTC_VortexSE_Optic"
+                    ]
+                },
+                {
+                    "Item": "MVS_Combat_Vest_Heavy_OD",
+                    "ItemAttachments": [
+                        "MVS_Heavy_Pouch_OD"
+                    ]
+                },
+                {
+                    "Item": "TTC_338mag_10rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "HDSN_C4StickWithDuctTape",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+		{
+            "Name": "2 Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TTC_AKModPK",
+                    "ItemAttachments": [
+                        "TTC_AKMod_762x54_65rnd",
+						"TTC_AKMod_bttstk",
+						"TTC_AKMod_Hndguard"
+                    ]
+                },
+				{
+                    "Item": "TTC_AKMod_762x54_65rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "MVS_Combat_Vest_Heavy_Black",
+                    "ItemAttachments": [
+                        "MVS_Heavy_Pouch_Black"
+                    ]
+                },
+                {
+                    "Item": "TTC_AKMod_762x54_65rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "HDSN_C4Sticks",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+		{
+            "Name": "3 Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TTC_M82",
+                    "ItemAttachments": [
+                        "TTC_M82_5rnd_Mag"
+                    ]
+                },
+                {
+                    "Item": "MVS_Combat_Vest_Heavy_Tan",
+                    "ItemAttachments": [
+                        "MVS_Heavy_Pouch_Tan"
+                    ]
+                },
+                {
+                    "Item": "TTC_M82_5rnd_Mag",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "HDSN_C4Sticks",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+		{
+            "Name": "4 Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TTC_GEVAR43",
+                    "ItemAttachments": [
+                        "TTC_GEVAR43_Magazine_10rnd"
+                    ]
+                },
+                {
+                    "Item": "MVS_Altyn_Tan",
+                    "ItemAttachments": [
+                        "MVS_Altyn_Visor_Tan"
+                    ]
+                },
+                {
+                    "Item": "TTC_GEVAR43_Magazine_10rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "HDSN_Detonator",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+		{
+            "Name": "5 Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TTC_FAL",
+                    "ItemAttachments": [
+                        "TTC_Coupled_FAL_Magazine",
+						"TTC_FAL_RIS_Hndgrd",
+						"TTC_FAL_Wood_Bttstck"
+                    ]
+                },
+                {
+                    "Item": "MVS_Altyn_OD",
+                    "ItemAttachments": [
+                        "MVS_Altyn_Visor_OD"
+                    ]
+                },
+                {
+                    "Item": "TTC_M82_5rnd_Mag",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "HDSN_Detonator",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+		{
+            "Name": "6 Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TTC_Beowulf",
+                    "ItemAttachments": [
+                        "TTC_50Beo_mag"
+                    ]
+                },
+                {
+                    "Item": "MVS_Altyn_Black",
+                    "ItemAttachments": [
+                        "MVS_Altyn_Visor_Black"
+                    ]
+                },
+                {
+                    "Item": "TTC_50Beo_mag",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "HDSN_Detonator",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        }
+    ],
+    "ZombiesClassNames": [
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_Summer",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Woodland",
+        "ZmbM_usSoldier_normal_Desert"
+    ],
+    "FullMapCheckTimer": 5.0,
+    "EventTickTime": 1.0,
+    "Logging": 1
+}

@@ -1,0 +1,39 @@
+{
+    "M_STATIC_MARKER_ARRAY": [
+        {
+            "M_MARKER_NAME": "Safezone Trader",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\shopping.paa",
+            "M_COLOR": [
+                0.0,
+                255.0,
+                0.0
+            ],
+            "M_POSITION": [
+                7818.0,
+                0.0,
+                7275.0
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Black Market",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\shopping.paa",
+            "M_COLOR": [
+                255.0,
+                0.0,
+                0.0
+            ],
+            "M_POSITION": [
+                388.0,
+                0.0,
+                14696.0
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        }
+    ],
+    "m_CanUse3DMarkers": 1,
+    "m_OwnPositionMarkerDisabled": 0,
+    "m_ForceMapItemOnly": 0
+}

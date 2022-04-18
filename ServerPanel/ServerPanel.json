@@ -1,0 +1,51 @@
+{
+    "SERVERNAME": "Welcome on the BAM Community Server",
+    "BUTTON1NAME": "DISCORD",
+    "BUTTON1LINK": "https://discord.gg/xwUs3fx",
+    "BUTTON2NAME": "-",
+    "BUTTON2LINK": "-",
+    "BUTTON3NAME": "-",
+    "BUTTON3LINK": "-",
+    "BUTTONTAB0NAME": "Vehicle Rules",
+    "BUTTONTAB1NAME": "Building Rules",
+    "BUTTONTAB2NAME": "Raiding Rules",
+    "BUTTONTAB3NAME": "",
+    "DISPLAYPLAYERINFO": 1,
+    "DISPLAYPLAYERTAB": 1,
+    "sServerTab0": [
+        "Please join our Discord for more information and support",
+        "You can find vanilla vehicle on the map an sell them at the Safezonetrader.",
+        "Modded vehicles can only be bought at the Safezonetrader.",
+        "Using vehicles is at your own risk.",
+        "Vehicle will despawn after two days. You have to cover them with a Camo Net to stop the despawning progress.",
+        "You are not allowed to destroy other players vehicles or remove the carcover.",
+        "You are not allowed to park vehicles in the safezone. Stop and shop is allowed"
+    ],
+    "sServerTab1": [
+        "Please join our Discord for more information and support",
+        "You are not allowed to build closer than 1000m to a trader (Black Market and Safezone Trader).",
+        "You are not allowed to build closer than 400m to a Military Zone.",
+        "You are not allowed to build inside of Hospitals and Police Stations.",
+        "Your base must be raidable with the raiding tools available on the Server.",
+        "Gates have to be at least one vanilla fence length apart.",
+        "You are not allowed to build more than two Watchtowers on top of each other.",
+        "If your base generates too much lag, an admin will enforce a buildstop or delete parts as they deem fit.",
+        "You have to build a flagpole to start placing Items.",
+        "You have to raise your flag every 7 days or your base will eventually despawn."
+    ],
+    "sServerTab2": [
+        "Please join our Discord for more information and support",
+        "You are allowed to playerboost, i.e. climb on top of other players.",
+        "You are allowed to use one item or vehicle. It is not allowed to stack items.",
+        "You are not allowed to use glitches of any kind.",
+        "You are not allowed to replace codelocks.",
+        "You are not allowed to destroy foreign bases. Take only what you need. Dropping foreign items on the ground to make them despawn, i.e. griefing, will get you banned.",
+        "You are only allowed to take over a base after you raided the flagpole and removed every single codelock.",
+        "You are not allowed to destroy or despawn other players' parked cars. (shooting/removing car cover)",
+        "You are not allowed to log off inside a foreign base.",
+        "If you login inside a foreign base, contact an admin."
+    ],
+    "sServerTab3": [
+        ""
+    ]
+}

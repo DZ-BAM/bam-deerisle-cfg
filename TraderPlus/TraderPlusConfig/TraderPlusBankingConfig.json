@@ -1,0 +1,18 @@
+{
+    "IsCreditCarNeededForTransaction": 0,
+    "TransactionFees": 0.0,
+    "DefaultStartCurrency": 15000,
+    "DefaultMaxCurrency": 100000,
+    "TextUI": "BANK AMOUNT:,Fees:,PLAYER AMOUNT:,MAX:,WITHDRAW,DEPOSIT,PLAYER ACCOUNT,NUMBER ONLY !,YOU CANNOT PUT NEGATIVE OR NULL VALUE!,AMOUNT DESIRED IS SUPERIOR TO BANK AMOUNT!,AMOUNT IS GOING TO REACH BANK AMOUNT LIMIT!,NOT ENOUGH MONEY!,TRANSACTION AMOUNT:",
+    "CurrenciesAccepted": [
+        "TraderPlus_Money_Euro1",
+        "TraderPlus_Money_Euro2",
+        "TraderPlus_Money_Euro5",
+        "TraderPlus_Money_Euro10",
+        "TraderPlus_Money_Euro20",
+        "TraderPlus_Money_Euro50",
+        "TraderPlus_Money_Euro100",
+        "TraderPlus_Money_Euro200",
+        "TraderPlus_Money_Euro500"
+    ]
+}

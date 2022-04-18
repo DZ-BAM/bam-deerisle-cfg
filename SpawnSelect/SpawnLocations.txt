@@ -1,0 +1,7 @@
+Timoradza=4600 0 11078=1000
+Slatina nad Bebravou=6633 0 13749=1000
+Geothermal Park=13864 0 9124=1000
+Horne Nastice=8996 0 3363=1000
+Hornany=1756 0 7779=1000
+Sliezska Osada=2080 0 2161=1000
+Latkovce=13059 0 505=1000

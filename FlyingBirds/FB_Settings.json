@@ -1,0 +1,10 @@
+{
+    "PLAYER_DELAY": "Used for delay of spawing or removing birds. Seconds X 1000 = Delay(300,000 is 5Mins)",
+    "z_player_Start_delay": 12000,
+    "z_player_Remove_delay": 12000,
+    "SPACE1": "------------------------------------------------------------------",
+    "ANIMAL_DELAY": "Used for delay of spawing or removing birds. Seconds X 1000 = Delay(300,000 is 5Mins)",
+    "z_animal_Start_delay": 12000,
+    "z_animal_Remove_delay": 12000,
+    "SPACE2": "------------------------------------------------------------------"
+}

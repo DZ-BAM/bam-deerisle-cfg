@@ -1,0 +1,284 @@
+{
+    "ConvertTraderConfigToTraderPlus": 0,
+    "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
+    "UseGarageToTradeCar": 0,
+    "DisableHeightFailSafeForReceiptDeployment": 0,
+    "EnableShowAllPrices": 0,
+    "EnableShowAllCheckBox": 1,
+    "EnableStockAllCategory": 1,
+    "IsReceiptTraderOnly": 1,
+    "LockPickChance": 0.30000001192092898,
+    "LicenceKeyWord": "Licence",
+    "Licences": [
+        "Car Licence",
+        "Admin Licence"
+    ],
+    "AcceptedStates": {
+        "AcceptWorn": 1,
+        "AcceptDamaged": 1,
+        "AcceptBadlyDamaged": 1
+    },
+    "StoreOnlyToPristineState": 0,
+    "Currencies": [
+        {
+            "ClassName": "TraderPlus_Money_Euro500",
+            "Value": 500
+        },
+        {
+            "ClassName": "TraderPlus_Money_Euro100",
+            "Value": 100
+        },
+        {
+            "ClassName": "TraderPlus_Money_Euro50",
+            "Value": 50
+        },
+        {
+            "ClassName": "TraderPlus_Money_Euro20",
+            "Value": 20
+        },
+        {
+            "ClassName": "TraderPlus_Money_Euro10",
+            "Value": 10
+        },
+        {
+            "ClassName": "TraderPlus_Money_Euro5",
+            "Value": 5
+        },
+        {
+            "ClassName": "TraderPlus_Money_Euro2",
+            "Value": 2
+        },
+        {
+            "ClassName": "TraderPlus_Money_Euro1",
+            "Value": 1
+        }
+    ],
+    "Traders": [
+        {
+            "Id": 0,
+            "Name": "SurvivorM_Hassan",
+            "GivenName": "Ahmed",
+            "Role": "Food Trader",
+            "Position": [
+                7812.048828125,
+                237.3862762451172,
+                7244.24169921875
+            ],
+            "Orientation": [
+                270.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "HunterPants_Autumn",
+                "HuntingJacket_Autumn",
+                "HuntingVest",
+                "HikingBoots_Brown"
+            ]
+        },
+        {
+            "Id": 1,
+            "Name": "SurvivorM_Mirek",
+            "GivenName": "Yuri",
+            "Role": "Weapon Trader",
+            "Position": [
+                7796.517578125,
+                237.35842895507813,
+                7239.2998046875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "M65Jacket_Black",
+                "CargoPants_Black",
+                "MilitaryBoots_Black",
+                "TTC_AKMod_Gold",
+                "TTC_AKMod_Gold_Hndguard",
+                "TTC_AKMod_Gold_bttstk",
+                "TTC_M82_gold"
+            ]
+        },
+        {
+            "Id": 2,
+            "Name": "SurvivorM_Jose",
+            "GivenName": "Bob",
+            "Role": "Tool Trader",
+            "Position": [
+                7807.31396484375,
+                237.8160400390625,
+                7264.78857421875
+            ],
+            "Orientation": [
+                17.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "ConstructionHelmet_Yellow",
+                "CargoPants_Grey",
+                "Shirt_RedCheck",
+                "Wellies_Black"
+            ]
+        },
+        {
+            "Id": 3,
+            "Name": "SurvivorM_Niki",
+            "GivenName": "Steve",
+            "Role": "Clothes Trader",
+            "Position": [
+                7822.5498046875,
+                237.24000549316407,
+                7243.97021484375
+            ],
+            "Orientation": [
+                265.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "Raincoat_Pink",
+                "AviatorGlasses",
+                "Skirt_Blue",
+                "BaselballCap_Pink",
+                "LeatherShoes_Brown"
+            ]
+        },
+        {
+            "Id": 4,
+            "Name": "SurvivorF_Irena",
+            "GivenName": "Olga",
+            "Role": "Car Trader",
+            "Position": [
+                7721.2001953125,
+                237.6999969482422,
+                7226.7001953125
+            ],
+            "Orientation": [
+                280.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "TrackSuitJacket_Red",
+                "TrackSuitPants_Red",
+                "JoggingShoes_Red"
+            ]
+        },
+        {
+            "Id": 5,
+            "Name": "SurvivorF_Helga",
+            "GivenName": "Helga Hindenburg",
+            "Role": "Aircraft Trader",
+            "Position": [
+                7771.10009765625,
+                239.0,
+                7146.7001953125
+            ],
+            "Orientation": [
+                350.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "TrackSuitJacket_Black",
+                "TrackSuitPants_Black",
+                "JoggingShoes_Black"
+            ]
+        },
+        {
+            "Id": 6,
+            "Name": "SurvivorF_Eva",
+            "GivenName": "Bonnie",
+            "Role": "Warlord",
+            "Position": [
+                389.0,
+                340.0,
+                14695.599609375
+            ],
+            "Orientation": [
+                255.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "RidersJacket_Black",
+                "BDUPants",
+                "JungleBoots_Black",
+                "MilitaryBarret_ChDKZ"
+            ]
+        },
+        {
+            "Id": 7,
+            "Name": "SurvivorM_Rolf",
+            "GivenName": "Clyde",
+            "Role": "Drug Trafficker",
+            "Position": [
+                380.70001220703127,
+                337.20001220703127,
+                14698.400390625
+            ],
+            "Orientation": [
+                45.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "ParamedicJacket_Blue",
+                "ParamedicPants_Blue",
+                "AthleticShoes_Blue"
+            ]
+        },
+        {
+            "Id": -2,
+            "Name": "TraderPlus_BANK_ATM",
+            "GivenName": "ATM",
+            "Role": "EUR",
+            "Position": [
+                7723.60009765625,
+                237.0399932861328,
+                7160.5
+            ],
+            "Orientation": [
+                -2.879199981689453,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": -2,
+            "Name": "TraderPlus_BANK_ATM",
+            "GivenName": "ATM",
+            "Role": "EUR",
+            "Position": [
+                7723.7001953125,
+                237.0399932861328,
+                7158.2998046875
+            ],
+            "Orientation": [
+                -2.6552000045776369,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        }
+    ],
+    "TraderObjects": [
+        {
+            "ObjectName": "RFFSHeli_Osprey_Static",
+            "Position": [
+                7794.0,
+                238.0,
+                7162.0
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ]
+}

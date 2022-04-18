@@ -1,0 +1,23 @@
+{
+    "weatherSettings": [
+        {
+            "name": "Tag Sonne Hell",
+            "overcastActual": [
+                0.0,
+                1.0,
+                1.0
+            ],
+            "rainActual": [
+                0.0,
+                1.0,
+                1.0
+            ],
+            "fogActual": [
+                0.009999999776482582,
+                1.0,
+                1.0
+            ],
+            "windForceActual": 0.0
+        }
+    ]
+}

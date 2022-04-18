@@ -1,0 +1,180 @@
+{
+	"ConfigVersion": "2",
+	"WhiteList": [
+		"Trap",
+		"Paper",
+		"Fireplace"
+	],
+	"ServerAdmins": [],
+	"TentRadius": 6.0,
+	"TentCESpawnLifeTime": 5600.0,
+	"BuildBonusSledgeDamage": 300.0,
+	"RequireTerritory": 1,
+	"PublicPermissions": 384,
+	"MemberPermissions": 511,
+	"Notifications": 0,
+	"NoBuildZones": [
+		{
+			"Name": "Alica Airport (north)",
+			"X": 4867,
+			"Z": 5171,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Alica Airport (center)",
+			"X": 4906,
+			"Z": 4848,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Alica Airport (south)",
+			"X": 4988,
+			"Z": 4542,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Military Obsidian",
+			"X": 4256,
+			"Z": 14371,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Hrabice Airport (north)",
+			"X": 2100,
+			"Z": 12160,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Hrabice Airport (center)",
+			"X": 2100,
+			"Z": 11725,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Hrabice Airport (south)",
+			"X": 2100,
+			"Z": 11290,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Pepelova Military",
+			"X": 306,
+			"Z": 5920,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Jankov vrsok",
+			"X": 13832,
+			"Z": 3750,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Jankov vrsok (underground)",
+			"X": 14180,
+			"Z": 3800,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "R.A.B.B.I.T.",
+			"X": 13306,
+			"Z": 11544,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Military Tisovik (north west)",
+			"X": 11630,
+			"Z": 15040,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Military Tisovik (north)",
+			"X": 12163,
+			"Z": 15040,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Military Tisovik (north east)",
+			"X": 12575,
+			"Z": 15100,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Military Tisovik (south west)",
+			"X": 11786,
+			"Z": 14600,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Military Tisovik (south east)",
+			"X": 12220,
+			"Z": 14650,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Easthaven",
+			"X": 14505,
+			"Z": 9680,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "OverGrown Military",
+			"X": 8206,
+			"Z": 9811,
+			"R": 700.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Outpost Arkaria",
+			"X": 6200,
+			"Z": 2030,
+			"R": 200.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Happy Bombs",
+			"X": 880,
+			"Z": 8980,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Kopec",
+			"X": 7096,
+			"Z": 12059,
+			"R": 500.0,
+			"DrawOnMap": 1
+		}
+	],
+	"NoBuildZoneMessage": " You can't build here, you are trying to build in a designated no build zone",
+	"TerritoryConflictMessage": " Sorry you can't build a territory this close to another territory",
+	"WithinTerritoryWarning": " Sorry you can't build this close to an enemy territory",
+	"DeSpawnWarningMessage": " You are building outside a territory, $ITEMNAME$ will despawn in $LIFETIME$ without a Territory",
+	"BuildPartWarningMessage": " Sorry, you don't have permissions to build in this area.",
+	"DismantleWarningMessage": " Sorry, you can't dismantle anything this close to a raised flag",
+	"LowerFlagWarningMessage": " Sorry, you do not have permissions to lower the flag in this territory",
+	"TerritoryRequiredWarningMessage": " Sorry, you are required to build a territory to be able to build",
+	"FlagRefreshFrequency": 432000,
+	"KitLifeTimes": {
+		"watchtowerkit": 3888000,
+		"fencekit": 3888000,
+		"bbp_": 3888000,
+		"msp_": 3888000
+	}
+}

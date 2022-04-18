@@ -1,0 +1,15 @@
+*.log
+*.ADM
+*.RPT
+*.vpp
+*.mdmp
+*.dll
+*.bak
+BattlEye/
+DataCache/
+PermissionsFramework/Permissions/
+PermissionsFramework/Players/
+TraderPlus/*Database/
+VPPAdminTools/Logging/
+VPPAdminTools/Permissions/
+users/
