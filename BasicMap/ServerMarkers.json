@@ -2,9 +2,9 @@
     {
         "Name": "Safezone Trader",
         "Pos": [
-			7800.0,
-			237.0,
-			7220.0
+			7518.0,
+			0.0,
+			4605.0
         ],
         "Icon": "BasicMap\\gui\\images\\cart.paa",
         "Is3DMarker": 1,
@@ -23,11 +23,34 @@
         "Group": "BASICMAP_SERVER"
     },
     {
+        "Name": "Aircraft Trader",
+        "Pos": [
+			5840.0,
+			0.0,
+			3584.0
+        ],
+        "Icon": "BasicMap\\gui\\images\\heli.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+			255,
+			0,
+			0
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "banov",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    },
+    {
         "Name": "Black Market",
         "Pos": [
-			388.0,
+			11379.0,
 			0.0,
-			14696.0
+			10368.0
         ],
         "Icon": "BasicMap\\gui\\images\\guns.paa",
         "Is3DMarker": 1,
