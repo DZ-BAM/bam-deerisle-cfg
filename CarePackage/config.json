@@ -1,62 +1,338 @@
 {
-	"Locations": [
-		{
-			"Name": "Zitna Radisa Farm",
-			"Location": [
-				11746,
-				6355
-			],
-			"Accuracy": 50
-		},
-		{
-			"Name": "North of Banovce nad Bebravou",
-			"Location": [
-				6799,
-				2325
-			],
-			"Accuracy": 50
-		},
-		{
-			"Name": "Velke Drzkovce",
-			"Location": [
-				678,
-				2750
-		],
-			"Accuracy": 50
-		},
-		{
-			"Name": "Dezerice",
-			"Location": [
-				3019,
-				6248
-			],
-			"Accuracy": 50
-		},
-		{
-			"Name": "Hrabice Airport",
-			"Location": [
-				2127,
-				11363
-			],
-			"Accuracy": 50
-		},
-		{
-			"Name": "R.A.B.B.I.T.",
-			"Location": [
-				13327,
-				11531
-			],
-			"Accuracy": 50
-		},
-		{
-			"Name": "Summer Camp",
-			"Location": [
-				7718,
-				11025
-			],
-			"Accuracy": 50
-		}
-	],
+    "Locations": [
+        {
+            "Name": "Oldfield",
+            "Location": [
+                 6059 ,
+                 6942 ],
+            "Zombies": 5,
+            "Accuracy": 50
+        },
+        {
+            "Name": "Oldfield",
+            "Location": [
+                 6390 ,
+                 6797  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Mountainville",
+            "Location": [
+                 7255 ,
+                 8476  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Mountainville",
+            "Location": [
+                 7285 ,
+                 8399  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Paris Island",
+            "Location": [
+                 3174 ,
+                 4155  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Paris island",
+            "Location": [
+                 2768 ,
+                 4116   ],
+            "Accuracy": 50,
+            "DropAccuracy": 50
+        },
+        {
+            "Name": "Airfield",
+            "Location": [
+                 5496 ,
+                 3673  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Airfield",
+            "Location": [
+                 5440 ,
+                 3813  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Hazelands",
+            "Location": [
+                 4657 ,
+                 2550   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Hazelands",
+            "Location": [
+                 3813 ,
+                 2546   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Scouts Camp",
+            "Location": [
+                 4953 ,
+                 2095  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Scouts Camp",
+            "Location": [
+                 5046 ,
+                 2151  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Greenville",
+            "Location": [
+                 4699 ,
+                 1444  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Greenville",
+            "Location": [
+                 4764 ,
+                 1537  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Camp Wolf",
+            "Location": [
+                 5404 ,
+                 1226  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Prison",
+            "Location": [
+                 5522 ,
+                 679   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Stonington",
+            "Location": [
+                 7271 ,
+                 1515  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Asheville",
+            "Location": [
+                 7209 ,
+                 2589  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Oceanville",
+            "Location": [
+                 10230,
+                 4876  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Camp Bear",
+            "Location": [
+                 9094 ,
+                 5938   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Camp Eagle",
+            "Location": [
+                 8812 ,
+                 3788   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Power Plant",
+            "Location": [
+                 4632 ,
+                 7072   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Power Plant",
+            "Location": [
+                 4566 ,
+                 7291   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Sandy bay",
+            "Location": [
+                 5397 ,
+                 7621   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Mountain ville",
+            "Location": [
+                 8734 ,
+                 9628   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Sandy bay",
+            "Location": [
+                 5292 ,
+                 7607   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Prison",
+            "Location": [
+                 5398 ,
+                 678   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Camp wolf",
+            "Location": [
+                 5471 ,
+                 1071   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Stonington",
+            "Location": [
+                 6720 ,
+                 1447   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Sunset Cross",
+            "Location": [
+                 6545 ,
+                 6254   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Warren Cove",
+            "Location": [
+                 7016 ,
+                 5299   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Warren Cove",
+            "Location": [
+                 7141 ,
+                 5495   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "KushVille",
+            "Location": [
+                 7545 ,
+                 4064   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "KushVille",
+            "Location": [
+                 7597 ,
+                 3691   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Milo",
+            "Location": [
+                 6513 ,
+                 3888   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Camp Bear",
+            "Location": [
+                 8766 ,
+                 6090   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Mountainville",
+            "Location": [
+                 8929 ,
+                 8841   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Smallville",
+            "Location": [
+                 10350 ,
+                 4331   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Oceanville",
+            "Location": [
+                 10079 ,
+                 5224   ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Portland",
+            "Location": [
+                 5572,
+                 15424  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Portland",
+            "Location": [
+                 6093,
+                 14578  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Asheville",
+            "Location": [
+                 7199,
+                 2295  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Stoneington",
+            "Location": [
+                 6604,
+                 2361  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Georgetown",
+            "Location": [
+                 4696,
+                 4473  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Georgetown",
+            "Location": [
+                 4455,
+                 4551  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Westbrook",
+            "Location": [
+                 3502,
+                 6220  ],
+            "Accuracy": 50
+        },
+        {
+            "Name": "Westbrook",
+            "Location": [
+                 3853,
+                 6498  ],
+            "Accuracy": 50
+        }
+    ],
+    
 	"Packages": [
 		{
 			"Package_name": "Military",
