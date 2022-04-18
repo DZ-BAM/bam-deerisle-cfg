@@ -18,7 +18,7 @@
         "HideOnMap": 0,
         "MaxRenderDistance": -1.0,
         "MinRenderDistance": -1.0,
-        "MapToShowOn": "banov",
+        "MapToShowOn": "deerisle",
         "CanEdit": 0,
         "Group": "BASICMAP_SERVER"
     },
@@ -41,7 +41,7 @@
         "HideOnMap": 0,
         "MaxRenderDistance": -1.0,
         "MinRenderDistance": -1.0,
-        "MapToShowOn": "banov",
+        "MapToShowOn": "deerisle",
         "CanEdit": 0,
         "Group": "BASICMAP_SERVER"
     },
@@ -64,7 +64,7 @@
         "HideOnMap": 0,
         "MaxRenderDistance": -1.0,
         "MinRenderDistance": -1.0,
-        "MapToShowOn": "banov",
+        "MapToShowOn": "deerisle",
         "CanEdit": 0,
         "Group": "BASICMAP_SERVER"
     }
