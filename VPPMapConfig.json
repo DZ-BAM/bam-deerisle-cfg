@@ -9,9 +9,25 @@
                 0.0
             ],
             "M_POSITION": [
-                7818.0,
+                7518.0,
                 0.0,
-                7275.0
+                4605.0
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Aircraft Trader",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\shopping.paa",
+            "M_COLOR": [
+                255.0,
+                0.0,
+                0.0
+            ],
+            "M_POSITION": [
+                5840.0,
+                0.0,
+                3584.0
             ],
             "M_ISACTIVE": 1,
             "M_IS_3D_ACTIVE": 1
@@ -25,9 +41,9 @@
                 0.0
             ],
             "M_POSITION": [
-                388.0,
+                11379.0,
                 0.0,
-                14696.0
+                10368.0
             ],
             "M_ISACTIVE": 1,
             "M_IS_3D_ACTIVE": 1
