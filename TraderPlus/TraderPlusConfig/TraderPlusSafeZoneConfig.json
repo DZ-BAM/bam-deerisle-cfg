@@ -12,7 +12,7 @@
             "SafeZoneStatut": "Trader",
             "X": 7527.0,
             "Y": 4604.0,
-            "Radius": 800.0,
+            "Radius": 100.0,
             "Countdown": 10
         },
         {
