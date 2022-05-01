@@ -1,0 +1,106 @@
+{
+    "BBP_DisableCraftVanillaFence": 0,
+    "BBP_DisableCraftVanillaWatchtower": 0,
+    "BBP_BaseBuildAnywhere": 1,
+    "BBP_FlagBuildAnywhere": 1,
+    "BBP_TentBuildAnywhere": 1,
+    "BBP_VanillaBuildAnywhere": 1,
+    "BBP_SetInfiniteLifetime": 1,
+    "BBP_AdvancedRotation": 1,
+    "BBP_FloatingPlacement": 1,
+    "BBP_CanRaiseAndLowerHologram": 1,
+    "BBP_HologramHasCollision": 0,
+    "BBP_InventoryToggle": 0,
+    "BBP_HideKitWhilePlacing": 0,
+    "BBP_BarbedWireRemoveOutside": 0,
+    "BBP_CanAttachFlashlights": 1,
+    "BBP_CanAttachXmaslights": 1,
+    "BBP_CanAttachCamonets": 1,
+    "BBP_CanAttachWallpaper": 1,
+    "BBP_CanAttachCarpet": 1,
+    "BBP_CanAttachPlaster": 1,
+    "BBP_RaidOnlyDoors": 0,
+    "BBP_DisableDestroy": 1,
+    "BBP_DisableDismantle": 0,
+    "BBP_BuildTime": 5,
+    "BBP_DismantleTime": 10,
+    "BBP_Tier1RaidTime": 10000,
+    "BBP_Tier2RaidTime": 10000,
+    "BBP_Tier3RaidTime": 10000,
+    "BBP_BaseBuildToolDamage": 1,
+    "BBP_BaseDismantleToolDamage": 5,
+    "BBP_Tier1RaidToolDamage": 50,
+    "BBP_Tier2RaidToolDamage": 100,
+    "BBP_Tier3RaidToolDamage": 1000,
+    "BBP_BuildTools": [
+        "Hammer",
+        "Hatchet"
+    ],
+    "BBP_DismantleTools": [
+        "Hatchet",
+        "Crowbar"
+    ],
+    "BBP_Tier1RaidTools": [
+        "SledgeHammer",
+        "FirefighterAxe",
+        "WoodAxe"
+    ],
+    "BBP_Tier2RaidTools": [
+        "SledgeHammer",
+        "FirefighterAxe"
+    ],
+    "BBP_Tier3RaidTools": [
+        "SledgeHammer"
+    ],
+    "BBP_CementMixerTime": 252,
+    "BBP_CementMixerLocations": [
+        {
+            "position": [
+                10114.373047,
+				51.172554,
+				5192.807129
+            ],
+            "orientation": [
+                1.145087,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "position": [
+                4423.397949,
+				29.278379,
+				7662.006348
+            ],
+            "orientation": [
+                1.248536,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "position": [
+                6477.435547,
+				39.661777,
+				1823.782959
+            ],
+            "orientation": [
+                -2.835176,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "position": [
+                5796.128906,
+				5.929757,
+				14973.906250
+            ],
+            "orientation": [
+                2.186004,
+                0.0,
+                0.0
+            ]
+        }
+    ]
+}
