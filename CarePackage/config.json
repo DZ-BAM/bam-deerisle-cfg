@@ -425,14 +425,14 @@
 			]
 		},
 		{
-			"Package_name": "Basebuilding",
+			"Package_name": "BasebuildingA",
 			"object_type": "CarePackage_red",
 			"parachute_type": "ArmyParachute_black_digital",
 			"Items": [
 				{
 					"Item": "NailBox",
 					"MinQty": 1,
-					"MaxQty": 2,
+					"MaxQty": 4,
 					"Attachments": []
 				},
 				{
@@ -461,6 +461,49 @@
 				},
 				{
 					"Item": "Msp_MoskvaFridge_Cream_Kit",
+					"MinQty": 0,
+					"MaxQty": 1,
+					"Attachments": []
+				}
+			]
+		},
+		{
+			"Package_name": "BasebuildingB",
+			"object_type": "CarePackage_red",
+			"parachute_type": "ArmyParachute_black_digital",
+			"Items": [
+				{
+					"Item": "NailBox",
+					"MinQty": 1,
+					"MaxQty": 4,
+					"Attachments": []
+				},
+				{
+					"Item": "MetalPlate",
+					"MinQty": 0,
+					"MaxQty": 1,
+					"Attachments": []
+				},
+				{
+					"Item": "BBP_Cement",
+					"MinQty": 1,
+					"MaxQty": 2,
+					"Attachments": []
+				},
+				{
+					"Item": "Msp_StorageBox_Kit",
+					"MinQty": 0,
+					"MaxQty": 1,
+					"Attachments": []
+				},
+				{
+					"Item": "BBP_Mortar_Mix",
+					"MinQty": 1,
+					"MaxQty": 4,
+					"Attachments": []
+				},
+				{
+					"Item": "Msp_DoubleGunRack_Kit",
 					"MinQty": 0,
 					"MaxQty": 1,
 					"Attachments": []
