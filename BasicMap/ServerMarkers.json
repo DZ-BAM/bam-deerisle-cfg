@@ -48,9 +48,9 @@
     {
         "Name": "Black Market",
         "Pos": [
-			11379.0,
-			0.0,
-			10368.0
+			11387.0,
+			30.39,
+			10369.0
         ],
         "Icon": "BasicMap\\gui\\images\\guns.paa",
         "Is3DMarker": 1,
