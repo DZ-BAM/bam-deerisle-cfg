@@ -113,7 +113,8 @@
         {
             "Id": 7,
             "Categories": [
-                "BM Drugs"
+                "BM Drugs",
+				"Hardware Supplies BM"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []

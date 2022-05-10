@@ -432,7 +432,13 @@
 				{
 					"Item": "NailBox",
 					"MinQty": 1,
-					"MaxQty": 4,
+					"MaxQty": 1,
+					"Attachments": []
+				},
+				{
+					"Item": "NailBox",
+					"MinQty": 1,
+					"MaxQty": 1,
 					"Attachments": []
 				},
 				{
@@ -476,6 +482,12 @@
 					"Item": "NailBox",
 					"MinQty": 1,
 					"MaxQty": 4,
+					"Attachments": []
+				},
+				{
+					"Item": "NailBox",
+					"MinQty": 1,
+					"MaxQty": 1,
 					"Attachments": []
 				},
 				{
