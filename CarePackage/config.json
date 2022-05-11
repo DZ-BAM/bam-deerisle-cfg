@@ -493,7 +493,7 @@
 				{
 					"Item": "MetalPlate",
 					"MinQty": 0,
-					"MaxQty": 1,
+					"MaxQty": 30,
 					"Attachments": []
 				},
 				{
