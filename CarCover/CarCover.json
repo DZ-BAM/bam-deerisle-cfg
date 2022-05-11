@@ -846,7 +846,7 @@
         },
         {
             "CoverName": "DmnsHUMVEE_Cover",
-            "Offset": -2.700000047683716,
+            "Offset": 0.0,
             "CarClasses": [
                 "Dmns_HUMVEE"
             ]
