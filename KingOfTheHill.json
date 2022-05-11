@@ -155,7 +155,7 @@
     "RewardPools": [
         {
             "Name": "1 Pool",
-            "RewardContainer": "MSP_Treasure_Chest",
+            "RewardContainer": "SeaChest",
             "Rewards": [
                 {
                     "Item": "TTC_FD338",
@@ -188,7 +188,7 @@
         },
 		{
             "Name": "2 Pool",
-            "RewardContainer": "MSP_Treasure_Chest",
+            "RewardContainer": "SeaChest",
             "Rewards": [
                 {
                     "Item": "TTC_AKModPK",
@@ -226,7 +226,7 @@
         },
 		{
             "Name": "3 Pool",
-            "RewardContainer": "MSP_Treasure_Chest",
+            "RewardContainer": "SeaChest",
             "Rewards": [
                 {
                     "Item": "TTC_M82",
@@ -258,7 +258,7 @@
         },
 		{
             "Name": "4 Pool",
-            "RewardContainer": "MSP_Treasure_Chest",
+            "RewardContainer": "SeaChest",
             "Rewards": [
                 {
                     "Item": "TTC_GEVAR43",
@@ -290,7 +290,7 @@
         },
 		{
             "Name": "5 Pool",
-            "RewardContainer": "MSP_Treasure_Chest",
+            "RewardContainer": "SeaChest",
             "Rewards": [
                 {
                     "Item": "TTC_FAL",
@@ -324,7 +324,7 @@
         },
 		{
             "Name": "6 Pool",
-            "RewardContainer": "MSP_Treasure_Chest",
+            "RewardContainer": "SeaChest",
             "Rewards": [
                 {
                     "Item": "TTC_Beowulf",
@@ -356,7 +356,7 @@
         },
 		{
             "Name": "7 Pool",
-            "RewardContainer": "MSP_Treasure_Chest",
+            "RewardContainer": "SeaChest",
             "Rewards": [
                 {
                     "Item": "BBP_Cement",
