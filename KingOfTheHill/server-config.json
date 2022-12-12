@@ -1,0 +1,202 @@
+{
+    "m_ModVersion": "2.0",
+    "m_CaptureTime": 900.0,
+    "m_UpdateInterval": 4.0,
+    "m_ServerStartDelay": 600.0,
+    "m_HillEventInterval": 1500.0,
+    "m_EventCleanupTime": 1800.0,
+    "m_EventPreStart": 200.0,
+    "m_EveryEventCooldown": 100.0,
+    "m_EventPreStartMessage": "A Hill is spawning at %location% in %mintes% Minutes",
+    "m_EventCapturedMessage": "Hill at %location% has been captured by %winner%",
+    "m_EventDespawnedMessage": "Sorry, the Hill at %location% has despawned",
+    "m_EventStartMessage": "A Hill has spawned at %location%",
+    "m_DoLogsToCF": 1,
+    "m_PlayerPopulationToStartEvents": 1,
+    "m_MaxEvents": 2,
+    "m_FlagName": "bldr_flag_chernarus_wall",
+    "m_Creatures": [
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_Summer",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Woodland",
+        "ZmbM_usSoldier_normal_Desert",
+        "Animal_UrsusArctos"
+    ],
+    "m_HillLocations": [
+        {
+            "Name": "Sunset Cross Military",
+            "Radius": 60.0,
+            "CaptureRadius": 60.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+            "Position": [
+                6651.72021484375,
+                17.290000915527345,
+                6851.60009765625
+            ],
+            "AISpawnCount": 10,
+            "ObjectListName": "none",
+            "LootTier": 1
+        },
+        {
+            "Name": "Airfield",
+            "Radius": 60.0,
+            "CaptureRadius": 60.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+            "Position": [
+                5515.5,
+                67.08999633789063,
+                3799.81005859375
+            ],
+            "AISpawnCount": 10,
+            "ObjectListName": "none",
+            "LootTier": 1
+        },
+        {
+            "Name": "Airfield",
+            "Radius": 60.0,
+            "CaptureRadius": 60.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+            "Position": [
+                5523.56005859375,
+                74.01000213623047,
+                3606.7099609375
+            ],
+            "AISpawnCount": 10,
+            "ObjectListName": "none",
+            "LootTier": 1
+        },
+        {
+            "Name": "Paris Island",
+            "Radius": 60.0,
+            "CaptureRadius": 60.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+            "Position": [
+                3198.090087890625,
+                18.450000762939454,
+                4150.25
+            ],
+            "AISpawnCount": 10,
+            "ObjectListName": "none",
+            "LootTier": 1
+        },
+        {
+            "Name": "Prison",
+            "Radius": 60.0,
+            "CaptureRadius": 60.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+            "Position": [
+                5556.52001953125,
+                34.84000015258789,
+                732.719970703125
+            ],
+            "AISpawnCount": 10,
+            "ObjectListName": "none",
+            "LootTier": 1
+        },
+        {
+            "Name": "Camp Eagle",
+            "Radius": 60.0,
+            "CaptureRadius": 60.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+            "Position": [
+                8834.75,
+                45.40999984741211,
+                3797.179931640625
+            ],
+            "AISpawnCount": 10,
+            "ObjectListName": "none",
+            "LootTier": 1
+        },
+        {
+            "Name": "East Harbor",
+            "Radius": 60.0,
+            "CaptureRadius": 60.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+            "Position": [
+                11415.51953125,
+                19.790000915527345,
+                10114.1904296875
+            ],
+            "AISpawnCount": 10,
+            "ObjectListName": "none",
+            "LootTier": 1
+        },
+        {
+            "Name": "Area 42 Prison",
+            "Radius": 60.0,
+            "CaptureRadius": 60.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+            "Position": [
+                13328.3896484375,
+                12.920000076293946,
+                9756.8896484375
+            ],
+            "AISpawnCount": 10,
+            "ObjectListName": "none",
+            "LootTier": 1
+        },
+        {
+            "Name": "Rockenheim Circuit",
+            "Radius": 60.0,
+            "CaptureRadius": 60.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+            "Position": [
+                9789.669921875,
+                39.97999954223633,
+                11092.8203125
+            ],
+            "AISpawnCount": 10,
+            "ObjectListName": "none",
+            "LootTier": 1
+        },
+        {
+            "Name": "Power Plant",
+            "Radius": 60.0,
+            "CaptureRadius": 60.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+            "Position": [
+                4635.27978515625,
+                20.420000076293947,
+                7071.33984375
+            ],
+            "AISpawnCount": 10,
+            "ObjectListName": "none",
+            "LootTier": 1
+        }
+    ],
+    "m_RewardPools": [
+        {
+            "RewardContainerName": "KingOfTheHillRewardChest",
+            "m_Rewards": [
+                {
+                    "ItemName": "M4A1",
+                    "Quantity": 1,
+                    "Attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "ACOGOptic",
+                        "M4_Suppressor",
+                        "M4_CQBBttstck_Black",
+                        "M4_RISHndgrd_Black"
+                    ]
+                },
+                {
+                    "ItemName": "M4A1",
+                    "Quantity": 1,
+                    "Attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "ACOGOptic",
+                        "M4_Suppressor",
+                        "M4_CQBBttstck_Black",
+                        "M4_RISHndgrd_Black"
+                    ]
+                }
+            ],
+            "m_LootTier": 1,
+            "m_MaxWinningItems": 2,
+            "m_MinWinningItems": 1
+        }
+    ]
+}
