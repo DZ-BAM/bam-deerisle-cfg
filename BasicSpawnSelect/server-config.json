@@ -1,0 +1,105 @@
+{
+    "SpawnSystemMode": 1,
+    "SpawnLocations": [
+        {
+            "m_locationname": "Stonington",
+            "m_spawnlocation": [
+                6508.0,
+                0.0,
+                2198.0
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Hazelands",
+            "m_spawnlocation": [
+                4418.0,
+                0.0,
+                3275.0
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Kushville",
+            "m_spawnlocation": [
+                7368.0,
+                0.0,
+                3775.0
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Oceanville",
+            "m_spawnlocation": [
+                10148.0,
+                0.0,
+                4929.0
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Sunset Cross",
+            "m_spawnlocation": [
+                6436.0,
+                0.0,
+                6401.0
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Georgestown",
+            "m_spawnlocation": [
+                4719.0,
+                0.0,
+                4435.0
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Old Town",
+            "m_spawnlocation": [
+                2070.0,
+                0.0,
+                8980.0
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Sandy Bay",
+            "m_spawnlocation": [
+                5304.0,
+                0.0,
+                7979.0
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Waldoboro",
+            "m_spawnlocation": [
+                8736.0,
+                0.0,
+                9223.0
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Eastbrook",
+            "m_spawnlocation": [
+                10391.0,
+                0.0,
+                7974.0
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Portland",
+            "m_spawnlocation": [
+                6328.0,
+                0.0,
+                14632.0
+            ],
+            "m_randomradius": 1000.0
+        }
+    ],
+    "SpawnTickets": []
+}
