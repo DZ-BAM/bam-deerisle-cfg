@@ -199,28 +199,18 @@
                     ]
                 },
 				{
+                    "ItemName": "NVGoggles",
+                    "Quantity": 1,
+                    "Attachments": [
+					"Battery9V"
+					]
+                },
+				{
                     "ItemName": "TTC_338mag_10rnd",
                     "Quantity": 2,
                     "Attachments": []
-                }
-            ],
-            "m_LootTier": 1,
-            "m_MaxWinningItems": -1,
-            "m_MinWinningItems": -1
-        },
-		{
-            "RewardContainerName": "KingOfTheHillRewardChest",
-            "m_Rewards": [
-                {
-                    "ItemName": "TTC_AKModPK",
-                    "Quantity": 1,
-                    "Attachments": [
-                        "TTC_AKMod_762x54_65rnd",
-						"TTC_AKMod_bttstk",
-						"TTC_AKMod_Hndguard"
-                    ]
                 },
-                {
+				{
                     "ItemName": "TTC_AKMod_762x54_65rnd",
                     "Quantity": 2,
                     "Attachments": []
@@ -238,31 +228,11 @@
                     "Attachments": []
                 },
 				{
-                    "ItemName": "NVGoggles",
-                    "Quantity": 1,
-                    "Attachments": [
-					"Battery9V"
-					]
-                }
-            ],
-            "m_LootTier": 1,
-            "m_MaxWinningItems": -1,
-            "m_MinWinningItems": -1
-        },
-		{
-            "RewardContainerName": "KingOfTheHillRewardChest",
-            "m_Rewards": [
-                {
                     "ItemName": "TTC_M82",
                     "Quantity": 1,
                     "Attachments": [
                         "TTC_M82_5rnd_Mag"
                     ]
-                },
-                {
-                    "ItemName": "TTC_M82_5rnd_Mag",
-                    "Quantity": 2,
-                    "Attachments": []
                 },
 				{
                     "ItemName": "MVS_Combat_Vest_Heavy_Tan",
@@ -271,34 +241,7 @@
 					"MVS_Heavy_Pouch_Tan"
 					]
                 },
-				{
-                    "ItemName": "HDSN_C4Sticks",
-                    "Quantity": 1,
-                    "Attachments": []
-                },
-				{
-                    "ItemName": "NVGoggles",
-                    "Quantity": 1,
-                    "Attachments": [
-					"Battery9V"
-					]
-                }
-            ],
-            "m_LootTier": 1,
-            "m_MaxWinningItems": -1,
-            "m_MinWinningItems": -1
-        },
-		{
-            "RewardContainerName": "KingOfTheHillRewardChest",
-            "m_Rewards": [
-                {
-                    "ItemName": "TTC_GEVAR43",
-                    "Quantity": 1,
-                    "Attachments": [
-                        "TTC_GEVAR43_Magazine_10rnd"
-                    ]
-                },
-                {
+				 {
                     "ItemName": "TTC_GEVAR43_Magazine_10rnd",
                     "Quantity": 2,
                     "Attachments": []
@@ -309,28 +252,13 @@
                     "Attachments": [
 					"MVS_Altyn_Visor_Tan"
 					]
-                },
+				},
 				{
                     "ItemName": "HDSN_Detonator",
                     "Quantity": 1,
                     "Attachments": []
                 },
 				{
-                    "ItemName": "NVGoggles",
-                    "Quantity": 1,
-                    "Attachments": [
-					"Battery9V"
-					]
-                }
-            ],
-            "m_LootTier": 1,
-            "m_MaxWinningItems": -1,
-            "m_MinWinningItems": -1
-        },
-		{
-            "RewardContainerName": "KingOfTheHillRewardChest",
-            "m_Rewards": [
-                {
                     "ItemName": "TTC_FAL",
                     "Quantity": 1,
                     "Attachments": [
@@ -339,7 +267,7 @@
 						"TTC_FAL_Wood_Bttstck"
                     ]
                 },
-                {
+				{
                     "ItemName": "TTC_Coupled_FAL_Magazine",
                     "Quantity": 2,
                     "Attachments": []
@@ -352,65 +280,20 @@
 					]
                 },
 				{
-                    "ItemName": "HDSN_Detonator",
-                    "Quantity": 1,
-                    "Attachments": []
-                },
-				{
-                    "ItemName": "NVGoggles",
-                    "Quantity": 1,
-                    "Attachments": [
-					"Battery9V"
-					]
-                }
-            ],
-            "m_LootTier": 1,
-            "m_MaxWinningItems": -1,
-            "m_MinWinningItems": -1
-        },
-		{
-            "RewardContainerName": "KingOfTheHillRewardChest",
-            "m_Rewards": [
-                {
                     "ItemName": "TTC_Beowulf",
                     "Quantity": 1,
                     "Attachments": [
                         "TTC_50Beo_mag"
                     ]
                 },
-                {
-                    "ItemName": "TTC_50Beo_mag",
-                    "Quantity": 2,
-                    "Attachments": []
-                },
-				{
-                    "ItemName": "MVS_Altyn_Black",
-                    "Quantity": 1,
-                    "Attachments": [
-					"MVS_Altyn_Visor_Black"
-					]
-                },
-				{
-                    "ItemName": "HDSN_Detonator",
-                    "Quantity": 1,
-                    "Attachments": []
-                },
 				{
                     "ItemName": "NVGoggles",
                     "Quantity": 1,
                     "Attachments": [
 					"Battery9V"
 					]
-                }
-            ],
-            "m_LootTier": 1,
-            "m_MaxWinningItems": -1,
-            "m_MinWinningItems": -1
-        },
-		{
-            "RewardContainerName": "KingOfTheHillRewardChest",
-            "m_Rewards": [
-                {
+                },
+				{
                     "ItemName": "BBP_Cement",
                     "Quantity": 3,
                     "Attachments": []
