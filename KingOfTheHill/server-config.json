@@ -172,31 +172,43 @@
             "RewardContainerName": "KingOfTheHillRewardChest", 
             "m_Rewards": [
                 {
-                    "ItemName": "TTC_LeeEnfield",
+                    "ItemName": "MVS_Combat_Vest_Heavy_Black",
                     "Quantity": 1,
                     "Attachments": [
-                        "PUScopeOptic"
+                        "MVS_Heavy_Pouch_Black"
                     ]
                 },
                 {
-                    "ItemName": "SaltySticks",
-                    "Quantity": 3,
+                    "ItemName": "MVS_Altyn_Black",
+                    "Quantity": 1,
+                    "Attachments": [
+                        "MVS_Altyn_Visor_Black"
+                    ]
+                },
+                {
+                    "ItemName": "HDSN_C4StickWithDuctTape",
+                    "Quantity": 1,
                     "Attachments": []
                 },
                 {
-                    "ItemName": "RGD5Grenade",
-                    "Quantity": 2,
-                    "Attachments": []
+                    "ItemName": "NVGoggles",
+                    "Quantity": 1,
+                    "Attachments": [
+                        "Battery9V"
+                    ]
                 },
-                {
-                    "ItemName": "M67Grenade",
-                    "Quantity": 2,
-                    "Attachments": []
+				{
+                    "ItemName": "TTC_M82",
+                    "Quantity": 1,
+                    "Attachments": [
+                        "TTC_M82_5rnd_Mag"
+                    ]
                 }
+				
             ],
             "m_LootTier": 1, 
-            "m_MaxWinningItems": 4,
-            "m_MinWinningItems": 2
+            "m_MaxWinningItems": -1,
+            "m_MinWinningItems": -1
             
         },
         {
@@ -210,42 +222,25 @@
                     ]
                 },
                 {
-                    "ItemName": "MVS_Combat_Vest_Heavy_Black",
+                    "ItemName": "MVS_Altyn_OD",
                     "Quantity": 1,
                     "Attachments": [
-                        "MVS_Heavy_Pouch_Black"
+                        "MVS_Altyn_Visor_OD"
                     ]
-                },
-                {
-                    "ItemName": "MVS_Combat_Vest_Heavy_Tan",
-                    "Quantity": 1,
-                    "Attachments": [
-                        "MVS_Heavy_Pouch_Tan"
-                    ]
-                },
-                {
-                    "ItemName": "HDSN_C4StickWithDuctTape",
-                    "Quantity": 1,
-                    "Attachments": []
-                },
-                {
-                    "ItemName": "HDSN_C4Sticks",
-                    "Quantity": 2,
-                    "Attachments": []
-                },
-                {
-                    "ItemName": "HDSN_Detonator",
-                    "Quantity": 2,
-                    "Attachments": []
                 },
                 {
                     "ItemName": "HDSN_BreachingCharge",
                     "Quantity": 1,
                     "Attachments": []
+                },              
+                {
+                    "ItemName": "HDSN_Detonator",
+                    "Quantity": 1,
+                    "Attachments": []
                 },
                 {
                     "ItemName": "NailBox",
-                    "Quantity": 4,
+                    "Quantity": 2,
                     "Attachments": []
                 },
                 {
@@ -255,110 +250,43 @@
                         "Battery9V"
                     ]
                 },
-                {
-                    "ItemName": "MVS_Altyn_Black",
+				{
+                    "ItemName": "TTC_Coupled_FAL_Magazine",
+                    "Quantity": 1,
+                    "Attachments": []
+                },
+				{
+                    "ItemName": "TTC_FAL",
                     "Quantity": 1,
                     "Attachments": [
-                        "MVS_Altyn_Visor_Black"
+                        "TTC_Coupled_FAL_Magazine",
+						"TTC_FAL_RIS_Hndgrd",
+						"TTC_FAL_Wood_Bttstck"
                     ]
-                },
-                {
-                    "ItemName": "MVS_Altyn_OD",
-                    "Quantity": 1,
-                    "Attachments": [
-                        "MVS_Altyn_Visor_OD"
-                    ]
-                },
-                {
-                    "ItemName": "MVS_Altyn_Tan",
-                    "Quantity": 1,
-                    "Attachments": [
-                        "MVS_Altyn_Visor_Tan"
-                    ]
-                },
+				},	
                 {
                     "ItemName": "BBP_Cement",
-                    "Quantity": 2,
+                    "Quantity": 1,
                     "Attachments": []
                 },
                 {
                     "ItemName": "BBP_Mortar_Mix",
-                    "Quantity": 4,
+                    "Quantity": 2,
                     "Attachments": []
                 }
             ],
             "m_LootTier": 1, 
-            "m_MaxWinningItems": 8,
-            "m_MinWinningItems": 4
+            "m_MaxWinningItems": -1,
+            "m_MinWinningItems": -1
         },
         {
             "RewardContainerName": "KingOfTheHillRewardChest", 
             "m_Rewards": [
                 {
-                    "ItemName": "MVS_Combat_Vest_Heavy_OD",
-                    "Quantity": 1,
-                    "Attachments": [
-                        "MVS_Heavy_Pouch_OD"
-                    ]
-                },
-                {
-                    "ItemName": "MVS_Combat_Vest_Heavy_Black",
-                    "Quantity": 1,
-                    "Attachments": [
-                        "MVS_Heavy_Pouch_Black"
-                    ]
-                },
-                {
                     "ItemName": "MVS_Combat_Vest_Heavy_Tan",
                     "Quantity": 1,
                     "Attachments": [
                         "MVS_Heavy_Pouch_Tan"
-                    ]
-                },
-                {
-                    "ItemName": "HDSN_C4StickWithDuctTape",
-                    "Quantity": 1,
-                    "Attachments": []
-                },
-                {
-                    "ItemName": "HDSN_C4Sticks",
-                    "Quantity": 2,
-                    "Attachments": []
-                },
-                {
-                    "ItemName": "HDSN_Detonator",
-                    "Quantity": 2,
-                    "Attachments": []
-                },
-                {
-                    "ItemName": "HDSN_BreachingCharge",
-                    "Quantity": 1,
-                    "Attachments": []
-                },
-                {
-                    "ItemName": "NailBox",
-                    "Quantity": 4,
-                    "Attachments": []
-                },
-                {
-                    "ItemName": "NVGoggles",
-                    "Quantity": 1,
-                    "Attachments": [
-                        "Battery9V"
-                    ]
-                },
-                {
-                    "ItemName": "MVS_Altyn_Black",
-                    "Quantity": 1,
-                    "Attachments": [
-                        "MVS_Altyn_Visor_Black"
-                    ]
-                },
-                {
-                    "ItemName": "MVS_Altyn_OD",
-                    "Quantity": 1,
-                    "Attachments": [
-                        "MVS_Altyn_Visor_OD"
                     ]
                 },
                 {
@@ -369,19 +297,48 @@
                     ]
                 },
                 {
+                    "ItemName": "TTC_Beowulf",
+                    "Quantity": 1,
+                    "Attachments": [
+                        "TTC_50Beo_mag"
+                    ]
+                },
+                {
+                    "ItemName": "TTC_50Beo_mag",
+                    "Quantity": 1,
+                    "Attachments": []
+                },        
+                {
+                    "ItemName": "HDSN_BreachingCharge",
+                    "Quantity": 1,
+                    "Attachments": []
+                },
+                {
+                    "ItemName": "NailBox",
+                    "Quantity": 1,
+                    "Attachments": []
+                },
+                {
+                    "ItemName": "NVGoggles",
+                    "Quantity": 1,
+                    "Attachments": [
+                        "Battery9V"
+                    ]
+                },       
+                {
                     "ItemName": "BBP_Cement",
-                    "Quantity": 2,
+                    "Quantity": 1,
                     "Attachments": []
                 },
                 {
                     "ItemName": "BBP_Mortar_Mix",
-                    "Quantity": 4,
+                    "Quantity": 2,
                     "Attachments": []
                 }
             ],
             "m_LootTier": 1, 
-            "m_MaxWinningItems": 8,
-            "m_MinWinningItems": 4
+            "m_MaxWinningItems": -1,
+            "m_MinWinningItems": -1
         }
     ]
 }
