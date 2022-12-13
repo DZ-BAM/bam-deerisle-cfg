@@ -2,19 +2,19 @@
     "m_ModVersion": "2.0",
     "m_CaptureTime": 900.0,
     "m_UpdateInterval": 4.0,
-    "m_ServerStartDelay": 600.0,
-    "m_HillEventInterval": 1500.0,
-    "m_EventCleanupTime": 1800.0,
-    "m_EventPreStart": 200.0,
-    "m_EveryEventCooldown": 100.0,
-    "m_EventPreStartMessage": "A Hill is spawning at %location% in %mintes% Minutes",
-    "m_EventCapturedMessage": "Hill at %location% has been captured by %winner%",
-    "m_EventDespawnedMessage": "Sorry, the Hill at %location% has despawned",
-    "m_EventStartMessage": "A Hill has spawned at %location%",
+    "m_ServerStartDelay": 900.0,
+    "m_HillEventInterval": 1800.0,
+    "m_EventCleanupTime": 150.0,
+    "m_EventPreStart": 300.0,
+    "m_EveryEventCooldown": 900.0,
+    "m_EventPreStartMessage": "A King Of The Hill is spawning at %location% in %mintes% Minutes",
+    "m_EventCapturedMessage": "King Of The Hill at %location% has been captured!",
+    "m_EventDespawnedMessage": "Nobody claimed the King Of The Hill at %location% in time.",
+    "m_EventStartMessage": "A King Of The Hill has spawned at %location%.\nGo get it!",
     "m_DoLogsToCF": 1,
     "m_PlayerPopulationToStartEvents": 1,
-    "m_MaxEvents": 2,
-    "m_FlagName": "bldr_flag_chernarus_wall",
+    "m_MaxEvents": 1,
+    "m_FlagName": "vbldr_misc_flagpole",
     "m_Creatures": [
         "ZmbM_PatrolNormal_PautRev",
         "ZmbM_PatrolNormal_Autumn",
@@ -172,20 +172,51 @@
             "RewardContainerName": "KingOfTheHillRewardChest", 
             "m_Rewards": [
                 {
+                    "ItemName": "TTC_LeeEnfield",
+                    "Quantity": 1,
+                    "Attachments": [
+                        "PUScopeOptic"
+                    ]
+                },
+                {
+                    "ItemName": "SaltySticks",
+                    "Quantity": 3,
+                    "Attachments": []
+                },
+                {
+                    "ItemName": "RGD5Grenade",
+                    "Quantity": 2,
+                    "Attachments": []
+                },
+                {
+                    "ItemName": "M67Grenade",
+                    "Quantity": 2,
+                    "Attachments": []
+                }
+            ],
+            "m_LootTier": 1, 
+            "m_MaxWinningItems": 4,
+            "m_MinWinningItems": 2
+            
+        },
+        {
+            "RewardContainerName": "KingOfTheHillRewardChest", 
+            "m_Rewards": [
+                {
                     "ItemName": "MVS_Combat_Vest_Heavy_OD",
                     "Quantity": 1,
                     "Attachments": [
                         "MVS_Heavy_Pouch_OD"
                     ]
                 },
-				{
+                {
                     "ItemName": "MVS_Combat_Vest_Heavy_Black",
                     "Quantity": 1,
                     "Attachments": [
                         "MVS_Heavy_Pouch_Black"
                     ]
                 },
-				{
+                {
                     "ItemName": "MVS_Combat_Vest_Heavy_Tan",
                     "Quantity": 1,
                     "Attachments": [
@@ -197,22 +228,22 @@
                     "Quantity": 1,
                     "Attachments": []
                 },
-				{
+                {
                     "ItemName": "HDSN_C4Sticks",
                     "Quantity": 2,
                     "Attachments": []
                 },
-				{
+                {
                     "ItemName": "HDSN_Detonator",
                     "Quantity": 2,
                     "Attachments": []
                 },
-				{
+                {
                     "ItemName": "HDSN_BreachingCharge",
                     "Quantity": 1,
                     "Attachments": []
                 },
-				{
+                {
                     "ItemName": "NailBox",
                     "Quantity": 4,
                     "Attachments": []
@@ -221,8 +252,8 @@
                     "ItemName": "NVGoggles",
                     "Quantity": 1,
                     "Attachments": [
-						"Battery9V"
-					]
+                        "Battery9V"
+                    ]
                 },
                 {
                     "ItemName": "MVS_Altyn_Black",
@@ -231,14 +262,14 @@
                         "MVS_Altyn_Visor_Black"
                     ]
                 },
-				{
+                {
                     "ItemName": "MVS_Altyn_OD",
                     "Quantity": 1,
                     "Attachments": [
                         "MVS_Altyn_Visor_OD"
                     ]
                 },
-				{
+                {
                     "ItemName": "MVS_Altyn_Tan",
                     "Quantity": 1,
                     "Attachments": [
@@ -250,7 +281,7 @@
                     "Quantity": 2,
                     "Attachments": []
                 },
-				{
+                {
                     "ItemName": "BBP_Mortar_Mix",
                     "Quantity": 4,
                     "Attachments": []
@@ -259,7 +290,98 @@
             "m_LootTier": 1, 
             "m_MaxWinningItems": 8,
             "m_MinWinningItems": 4
-			
+        },
+        {
+            "RewardContainerName": "KingOfTheHillRewardChest", 
+            "m_Rewards": [
+                {
+                    "ItemName": "MVS_Combat_Vest_Heavy_OD",
+                    "Quantity": 1,
+                    "Attachments": [
+                        "MVS_Heavy_Pouch_OD"
+                    ]
+                },
+                {
+                    "ItemName": "MVS_Combat_Vest_Heavy_Black",
+                    "Quantity": 1,
+                    "Attachments": [
+                        "MVS_Heavy_Pouch_Black"
+                    ]
+                },
+                {
+                    "ItemName": "MVS_Combat_Vest_Heavy_Tan",
+                    "Quantity": 1,
+                    "Attachments": [
+                        "MVS_Heavy_Pouch_Tan"
+                    ]
+                },
+                {
+                    "ItemName": "HDSN_C4StickWithDuctTape",
+                    "Quantity": 1,
+                    "Attachments": []
+                },
+                {
+                    "ItemName": "HDSN_C4Sticks",
+                    "Quantity": 2,
+                    "Attachments": []
+                },
+                {
+                    "ItemName": "HDSN_Detonator",
+                    "Quantity": 2,
+                    "Attachments": []
+                },
+                {
+                    "ItemName": "HDSN_BreachingCharge",
+                    "Quantity": 1,
+                    "Attachments": []
+                },
+                {
+                    "ItemName": "NailBox",
+                    "Quantity": 4,
+                    "Attachments": []
+                },
+                {
+                    "ItemName": "NVGoggles",
+                    "Quantity": 1,
+                    "Attachments": [
+                        "Battery9V"
+                    ]
+                },
+                {
+                    "ItemName": "MVS_Altyn_Black",
+                    "Quantity": 1,
+                    "Attachments": [
+                        "MVS_Altyn_Visor_Black"
+                    ]
+                },
+                {
+                    "ItemName": "MVS_Altyn_OD",
+                    "Quantity": 1,
+                    "Attachments": [
+                        "MVS_Altyn_Visor_OD"
+                    ]
+                },
+                {
+                    "ItemName": "MVS_Altyn_Tan",
+                    "Quantity": 1,
+                    "Attachments": [
+                        "MVS_Altyn_Visor_Tan"
+                    ]
+                },
+                {
+                    "ItemName": "BBP_Cement",
+                    "Quantity": 2,
+                    "Attachments": []
+                },
+                {
+                    "ItemName": "BBP_Mortar_Mix",
+                    "Quantity": 4,
+                    "Attachments": []
+                }
+            ],
+            "m_LootTier": 1, 
+            "m_MaxWinningItems": 8,
+            "m_MinWinningItems": 4
         }
     ]
 }
