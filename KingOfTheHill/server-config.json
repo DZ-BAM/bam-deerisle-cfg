@@ -4,7 +4,7 @@
     "m_UpdateInterval": 4.0,
     "m_ServerStartDelay": 900.0,
     "m_HillEventInterval": 1800.0,
-    "m_EventCleanupTime": 150.0,
+    "m_EventCleanupTime": 1200.0,
     "m_EventPreStart": 300.0,
     "m_EveryEventCooldown": 900.0,
     "m_EventPreStartMessage": "A King Of The Hill is spawning at %location% in %mintes% Minutes",
