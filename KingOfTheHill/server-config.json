@@ -257,8 +257,8 @@
                 }
             ],
             "m_LootTier": 1, 
-            "m_MaxWinningItems": 5,
-            "m_MinWinningItems": 1
+            "m_MaxWinningItems": 8,
+            "m_MinWinningItems": 4
 			
         }
     ]
