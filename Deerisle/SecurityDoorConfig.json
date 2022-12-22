@@ -1,7 +1,7 @@
 {
     "door_open_cooldown": 300,
-    "door_close_cooldown": 5400,
-    "key_card_damage_on_use": 100.0,
+    "door_close_cooldown": 1800,
+    "key_card_damage_on_use": 50.0,
     "siren_doorclosing_warning_delay": 300,
     "zombie_spawnpoints": [
         [
