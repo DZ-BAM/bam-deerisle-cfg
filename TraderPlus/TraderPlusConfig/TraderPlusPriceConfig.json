@@ -1753,6 +1753,13 @@
             "Products": [
                 "NailBox,1,-1,0,10000,5000"
             ]
+        },
+		{
+            "CategoryName": "Raiding Tools",
+            "Products": [
+                "HDSN_BreachingCharge,1,-1,0,-1,25000",
+				"HDSN_BreachingChargeHeavy,1,-1,0,-1,50000"
+            ]
         }
     ]
 }
