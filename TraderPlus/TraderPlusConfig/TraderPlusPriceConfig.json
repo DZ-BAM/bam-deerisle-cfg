@@ -1757,8 +1757,15 @@
 		{
             "CategoryName": "Raiding Tools",
             "Products": [
-                "HDSN_BreachingCharge,1,-1,0,-1,25000",
-				"HDSN_BreachingChargeHeavy,1,-1,0,-1,50000"
+                "HDSN_BreachingCharge,1,-1,0,-1,40000",
+				"HDSN_BreachingChargeHeavy,1,-1,0,-1,80000"
+            ]
+        },
+		{
+            "CategoryName": "Legendary Weapons",
+            "Products": [
+                "jmc_SnowOwl,1,-1,0,-1,40000",
+				"Jmc_Mjolnir,1,-1,0,-1,50000"
             ]
         }
     ]
