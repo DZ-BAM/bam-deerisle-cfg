@@ -676,7 +676,7 @@
         },
         {
             "VehicleName": "CrSk_BMW_525i_E34",
-            "Height": 5,
+            "Height": 0,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -698,7 +698,7 @@
         },
         {
             "VehicleName": "CrSk_BMW_525i_E34_Red",
-            "Height": 5,
+            "Height": 0,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -720,7 +720,7 @@
         },
         {
             "VehicleName": "CrSk_BMW_525i_E34_Black",
-            "Height": 5,
+            "Height": 0,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -742,7 +742,7 @@
         },
         {
             "VehicleName": "CrSk_BMW_525i_E34_Purple",
-            "Height": 5,
+            "Height": 0,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -764,7 +764,7 @@
         },
         {
             "VehicleName": "CrSk_BMW_525i_E34_Beater",
-            "Height": 5,
+            "Height": 0,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -786,7 +786,7 @@
         },
         {
             "VehicleName": "Dmns_Datsun",
-            "Height": 5,
+            "Height": 0,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -803,7 +803,7 @@
         },
         {
             "VehicleName": "Dmns_Datsun",
-            "Height": 5,
+            "Height": 0,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -820,7 +820,7 @@
         },
         {
             "VehicleName": "Dmns_Humvee",
-            "Height": 5,
+            "Height": 0,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -841,7 +841,7 @@
         },
         {
             "VehicleName": "Dmns_KAMAZ",
-            "Height": 5,
+            "Height": 0,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -862,7 +862,7 @@
         },
         {
             "VehicleName": "Dmns_MRAP",
-            "Height": 5,
+            "Height": 0,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -881,7 +881,7 @@
         },
         {
             "VehicleName": "Dmns_MTVR",
-            "Height": 5,
+            "Height": 0,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -902,7 +902,7 @@
         },
         {
             "VehicleName": "Dmns_URAL",
-            "Height": 5,
+            "Height": 0,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -923,7 +923,7 @@
         },
         {
             "VehicleName": "MRAP_Cougar",
-            "Height": 5,
+            "Height": 0,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -945,7 +945,7 @@
         },
         {
             "VehicleName": "Glowler_ITV",
-            "Height": 5,
+            "Height": 0,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -960,7 +960,7 @@
         },
         {
             "VehicleName": "LAPV",
-            "Height": 5,
+            "Height": 0,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -980,7 +980,7 @@
         },
         {
             "VehicleName": "Jeep_Wnagler",
-            "Height": 5,
+            "Height": 0,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
