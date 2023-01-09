@@ -1,6 +1,8 @@
 {
 	"ConfigVersion": "2",
 	"WhiteList": [
+		"HDSN_BreachingCharge",
+		"HDSN_BreachingChargeHeavy",
 		"Trap",
 		"Paper",
 		"Fireplace"
