@@ -268,6 +268,32 @@
                 0.0,
                 0.0
             ]
+        },
+		{
+            "ObjectName": "StaticObj_Furniture_table_DZ",
+            "Position": [
+                7557.75,
+                88.0271,
+                4605.11
+            ],
+            "Orientation": [
+                55.0798,
+                0.0,
+                0.0
+            ]
+        },
+		{
+            "ObjectName": "MCK_KeyGrinder",
+            "Position": [
+                7557.93,
+                88.6303,
+                4605.19
+            ],
+            "Orientation": [
+                -34.5595,
+                0.0,
+                0.0
+            ]
         }
     ]
 }
