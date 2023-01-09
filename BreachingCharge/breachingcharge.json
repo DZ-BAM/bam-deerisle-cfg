@@ -109,6 +109,7 @@
             "Name": "Tier3",
             "Health": 4,
             "AcceptedChargeTypes": [
+				"HDSN_BreachingCharge",
                 "HDSN_BreachingChargeHeavy"
 			]
         },
