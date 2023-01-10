@@ -1,0 +1,3 @@
+[09/01/2023-15:19:21]	[PLACED]	[09/01/2023-15:19:21]	A charge has been placed!	 | HDSN_BreachingChargeHeavy, Position: <5769.265625, 108.266716, 2434.085449>, Target: BBP_BDoor_T3_Door_T3 | Player: BAM Admin [76561198871618045]
+[09/01/2023-15:19:30]	[ARMED]		[09/01/2023-15:19:30]	A charge has been armed!	 | HDSN_BreachingChargeHeavy, Position: <5770.102051, 108.865448, 2434.420654>, Target: BBP_BDoor_T3_Door_T3 | Player: BAM Admin [76561198871618045]
+[09/01/2023-15:19:54]	[DEFUSED]	[09/01/2023-15:19:54]	A charge has been defused!	 | HDSN_BreachingChargeHeavy, Position: <5770.102051, 108.865448, 2434.420654>, Target: BBP_BDoor_T3_Door_T3 | Defusing Player: BAM Admin [76561198871618045] | Player: BAM Admin [76561198871618045]
