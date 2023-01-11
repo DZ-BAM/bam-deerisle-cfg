@@ -2,7 +2,7 @@
 #define BAM_PATROL
 
 class Patrol {
-	private TVectorArray m_waypoints;
+	private ref TVectorArray m_waypoints;
 	private string m_loadout;
 	private int m_bots;
 	
@@ -11,21 +11,6 @@ class Patrol {
 		m_waypoints = waypoints;
 		m_loadout = loadout;
 		m_bots = bots;
-	}
-
-	ref TVectorArray getWaypoints()
-	{
-		return m_waypoints;
-	}
-	
-	string getLoadout()
-	{
-		return m_loadout;
-	}
-	
-	int getBots()
-	{
-		return m_bots;
 	}
 	
 	eAIDynamicPatrol getDynamicPatrol()
