@@ -1,4 +1,4 @@
-ref array<Patrol> PATROLS = {
+ref array<ref Patrol> PATROLS = {
 	new Patrol({"3161.399170 22.615067 4068.234863", "3125.670166 22.462461 4063.274414"}),
 };
 
