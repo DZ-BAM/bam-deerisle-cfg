@@ -1,5 +1,5 @@
 {
-    "Version": "2.3",
+    "Version": "2.5",
     "IsHideOutActive": 0,
     "EnableAfkDisconnect": 0,
     "KickAfterDelay": 30,
@@ -24,6 +24,7 @@
         }
     ],
     "CleanUpTimer": 1200,
+    "WhitelistEntities": [],
     "ObjectsToDelete": [
         "Paper"
     ],

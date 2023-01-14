@@ -1,5 +1,5 @@
 {
-    "Version": "2.3",
+    "Version": "2.5",
     "VehiclesParts": [
         {
             "VehicleName": "OffroadHatchback",
@@ -58,7 +58,7 @@
                 "HatchbackWheel"
             ]
         },
-		{
+        {
             "VehicleName": "OffroadHatchback_Green",
             "Height": 0,
             "VehicleParts": [
@@ -77,7 +77,7 @@
                 "HatchbackWheel"
             ]
         },
-		{
+        {
             "VehicleName": "OffroadHatchback_GreenRust",
             "Height": 0,
             "VehicleParts": [
@@ -96,7 +96,7 @@
                 "HatchbackWheel"
             ]
         },
-		{
+        {
             "VehicleName": "OffroadHatchback_BlueRust",
             "Height": 0,
             "VehicleParts": [
@@ -115,7 +115,7 @@
                 "HatchbackWheel"
             ]
         },
-		{
+        {
             "VehicleName": "OffroadHatchback_WhiteRust",
             "Height": 0,
             "VehicleParts": [
@@ -197,7 +197,7 @@
                 "Hatchback_02_Wheel"
             ]
         },
-		{
+        {
             "VehicleName": "Hatchback_02_RedRust",
             "Height": 0,
             "VehicleParts": [
@@ -218,7 +218,7 @@
                 "Hatchback_02_Wheel"
             ]
         },
-		{
+        {
             "VehicleName": "Hatchback_02_BlueRust",
             "Height": 0,
             "VehicleParts": [
@@ -239,7 +239,7 @@
                 "Hatchback_02_Wheel"
             ]
         },
-		{
+        {
             "VehicleName": "Hatchback_02_BlackRust",
             "Height": 0,
             "VehicleParts": [
@@ -344,7 +344,7 @@
                 "CivSedanWheel"
             ]
         },
-		{
+        {
             "VehicleName": "CivilianSedan_WineRust",
             "Height": 0,
             "VehicleParts": [
@@ -365,7 +365,7 @@
                 "CivSedanWheel"
             ]
         },
-		{
+        {
             "VehicleName": "CivilianSedan_BlackRust",
             "Height": 0,
             "VehicleParts": [
@@ -449,7 +449,7 @@
                 "Sedan_02_Wheel"
             ]
         },
-		{
+        {
             "VehicleName": "Sedan_02_Yellow",
             "Height": 0,
             "VehicleParts": [
@@ -470,7 +470,7 @@
                 "Sedan_02_Wheel"
             ]
         },
-		{
+        {
             "VehicleName": "Sedan_02_YellowBrightRust",
             "Height": 0,
             "VehicleParts": [
@@ -491,7 +491,7 @@
                 "Sedan_02_Wheel"
             ]
         },
-		{
+        {
             "VehicleName": "Sedan_02_RedRust",
             "Height": 0,
             "VehicleParts": [
@@ -512,7 +512,7 @@
                 "Sedan_02_Wheel"
             ]
         },
-		{
+        {
             "VehicleName": "Sedan_02_GreyRust",
             "Height": 0,
             "VehicleParts": [
@@ -1014,7 +1014,7 @@
                 "HeadlightH7"
             ]
         },
-		{
+        {
             "VehicleName": "RFFSHeli_Bo105m_blackcamo",
             "Height": 0,
             "VehicleParts": [
@@ -1032,7 +1032,7 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ]
-        },		
+        },
         {
             "VehicleName": "RFFSHeli_LittleBird",
             "Height": 0,
@@ -1095,9 +1095,9 @@
                 "RFFSHeli_Bell429_Cargo2",
                 "RFFSHeli_Bell429_Cargo3",
                 "RFFSHeli_Bell429_Cargo4",
-				"RFFSHeli_Bell429_interior",
-				"RFFSHeli_Bell429_skids",
-				"RFFSHeli_Bell429_rearseats",
+                "RFFSHeli_Bell429_interior",
+                "RFFSHeli_Bell429_skids",
+                "RFFSHeli_Bell429_rearseats",
                 "HeadlightH7"
             ]
         },
@@ -1115,9 +1115,9 @@
                 "RFFSHeli_Bell429_Cargo2_Police",
                 "RFFSHeli_Bell429_Cargo3_Police",
                 "RFFSHeli_Bell429_Cargo4_Police",
-				"RFFSHeli_Bell429_interior_Police",
-				"RFFSHeli_Bell429_skids_Police",
-				"RFFSHeli_Bell429_rearseats_Police",
+                "RFFSHeli_Bell429_interior_Police",
+                "RFFSHeli_Bell429_skids_Police",
+                "RFFSHeli_Bell429_rearseats_Police",
                 "HeadlightH7"
             ]
         },
@@ -1135,9 +1135,9 @@
                 "RFFSHeli_Bell429_Cargo2_Medic",
                 "RFFSHeli_Bell429_Cargo3_Medic",
                 "RFFSHeli_Bell429_Cargo4_Medic",
-				"RFFSHeli_Bell429_interior_Medic",
-				"RFFSHeli_Bell429_skids_Medic",
-				"RFFSHeli_Bell429_rearseats_Medic",
+                "RFFSHeli_Bell429_interior_Medic",
+                "RFFSHeli_Bell429_skids_Medic",
+                "RFFSHeli_Bell429_rearseats_Medic",
                 "HeadlightH7"
             ]
         },
@@ -1155,9 +1155,9 @@
                 "RFFSHeli_Bell429_Cargo2_ZS",
                 "RFFSHeli_Bell429_Cargo3_ZS",
                 "RFFSHeli_Bell429_Cargo4_ZS",
-				"RFFSHeli_Bell429_interior_ZS",
-				"RFFSHeli_Bell429_skids_ZS",
-				"RFFSHeli_Bell429_rearseats_ZS",
+                "RFFSHeli_Bell429_interior_ZS",
+                "RFFSHeli_Bell429_skids_ZS",
+                "RFFSHeli_Bell429_rearseats_ZS",
                 "HeadlightH7"
             ]
         },

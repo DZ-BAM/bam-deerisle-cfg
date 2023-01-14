@@ -1,5 +1,5 @@
 {
-    "Version": "2.3",
+    "Version": "2.5",
     "ConvertTraderConfigToTraderPlus": 0,
     "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
     "UseGarageToTradeCar": 0,
@@ -22,7 +22,10 @@
     "AcceptedStates": {
         "AcceptWorn": 1,
         "AcceptDamaged": 1,
-        "AcceptBadlyDamaged": 1
+        "AcceptBadlyDamaged": 1,
+        "CoefficientWorn": 0.75,
+        "CoefficientDamaged": 0.5,
+        "CoefficientBadlyDamaged": 0.25
     },
     "StoreOnlyToPristineState": 0,
     "Currencies": [
@@ -66,9 +69,9 @@
             "GivenName": "Ahmed",
             "Role": "Food Trader",
             "Position": [
-                7547.847168,
-                88.244888,
-                4628.338867
+                7547.84716796875,
+                88.24488830566406,
+                4628.3388671875
             ],
             "Orientation": [
                 48.0,
@@ -88,9 +91,9 @@
             "GivenName": "Yuri",
             "Role": "Weapon Trader",
             "Position": [
-                7509.312500,
-                87.797600,
-                4590.898438
+                7509.3125,
+                87.79759979248047,
+                4590.8984375
             ],
             "Orientation": [
                 45.0,
@@ -113,9 +116,9 @@
             "GivenName": "Bob",
             "Role": "Tool Trader",
             "Position": [
-                7502.374512,
-                87.797012,
-                4608.590332
+                7502.37451171875,
+                87.79701232910156,
+                4608.59033203125
             ],
             "Orientation": [
                 105.0,
@@ -136,7 +139,7 @@
             "Role": "Clothes Trader",
             "Position": [
                 7517.0,
-                87.79318,
+                87.79318237304688,
                 4622.0
             ],
             "Orientation": [
@@ -158,9 +161,9 @@
             "GivenName": "Olga",
             "Role": "Car Trader",
             "Position": [
-                7555.806152,
-                87.974533,
-                4605.688477
+                7555.80615234375,
+                87.97453308105469,
+                4605.6884765625
             ],
             "Orientation": [
                 150.0,
@@ -200,9 +203,9 @@
             "GivenName": "Bonnie",
             "Role": "Warlord",
             "Position": [
-                11387.416016,
-                30.399946,
-                10365.355469
+                11387.416015625,
+                30.399946212768556,
+                10365.35546875
             ],
             "Orientation": [
                 255.0,
@@ -222,9 +225,9 @@
             "GivenName": "Clyde",
             "Role": "Drug Trafficker",
             "Position": [
-                11381.920898,
-                30.399988,
-                10368.247070
+                11381.9208984375,
+                30.399988174438478,
+                10368.2470703125
             ],
             "Orientation": [
                 75.0,
@@ -243,8 +246,8 @@
             "GivenName": "ATM",
             "Role": "EUR",
             "Position": [
-                7552.4,
-                87.669,
+                7552.39990234375,
+                87.66899871826172,
                 4602.0
             ],
             "Orientation": [
@@ -259,9 +262,9 @@
         {
             "ObjectName": "RFFSHeli_Osprey_Static",
             "Position": [
-                5854.6,
+                5854.60009765625,
                 74.0,
-                3613.1
+                3613.10009765625
             ],
             "Orientation": [
                 0.0,
@@ -269,28 +272,28 @@
                 0.0
             ]
         },
-		{
+        {
             "ObjectName": "StaticObj_Furniture_table_DZ",
             "Position": [
                 7557.75,
-                88.0271,
-                4605.11
+                88.027099609375,
+                4605.10986328125
             ],
             "Orientation": [
-                55.0798,
+                55.07979965209961,
                 0.0,
                 0.0
             ]
         },
-		{
+        {
             "ObjectName": "MCK_KeyGrinder",
             "Position": [
-                7557.93,
-                88.6303,
-                4605.19
+                7557.93017578125,
+                88.63030242919922,
+                4605.18994140625
             ],
             "Orientation": [
-                -34.5595,
+                -34.55950164794922,
                 0.0,
                 0.0
             ]

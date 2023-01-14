@@ -1,5 +1,5 @@
 {
-    "Version": "2.3",
+    "Version": "2.5",
     "IDs": [
         {
             "Id": 0,
@@ -26,7 +26,7 @@
                 "Shotguns",
                 "Submachine Guns",
                 "Assault Rifles",
-				"DMR Rifles",
+                "DMR Rifles",
                 "Sniper Rifles",
                 "Grenades",
                 "Ammunition",
@@ -106,8 +106,8 @@
                 "BM Mags",
                 "BM Clothing",
                 "BM Grenades",
-				"Raiding Tools",
-				"Legendary Weapons"
+                "Raiding Tools",
+                "Legendary Weapons"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
@@ -116,7 +116,7 @@
             "Id": 7,
             "Categories": [
                 "BM Drugs",
-				"Hardware Supplies BM"
+                "Hardware Supplies BM"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []

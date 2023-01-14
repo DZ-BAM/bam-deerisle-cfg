@@ -1,5 +1,5 @@
 {
-    "Version": "2.3",
+    "Version": "2.5",
     "BankingLogs": 0,
     "IsCreditCarNeededForTransaction": 0,
     "TransactionFees": 0.0,
@@ -16,5 +16,6 @@
         "TraderPlus_Money_Euro200",
         "TraderPlus_Money_Euro500"
     ],
-    "TheAmountHasBeenTransferedToTheAccount": "The Amount has been successfully send to the account of destination !"
+    "TheAmountHasBeenTransferedToTheAccount": "The Amount has been successfully send to the account of destination !",
+    "TheAmountErrorTransferAccount": "The destination account doesn't exist !"
 }
