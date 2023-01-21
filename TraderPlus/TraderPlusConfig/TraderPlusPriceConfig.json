@@ -102,7 +102,8 @@
                 "SalineBag,1,-1,0,1000,100",
                 "BloodBagEmpty,1,-1,0,500,50",
                 "FirstAidKit,1,-1,0,4000,400",
-				"GasMask_Filter,1,-1,0,3000,800"
+				"GasMask_Filter,1,-1,0,3000,800",
+				"AntiChemInjector,1,-1,0,8000,3000"
             ]
         },
         {
