@@ -4,7 +4,7 @@
     "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
     "UseGarageToTradeCar": 0,
     "DisableHeightFailSafeForReceiptDeployment": 0,
-    "HideInsuranceBtn": 0,
+    "HideInsuranceBtn": 1,
     "HideGarageBtn": 0,
     "HideLicenceBtn": 0,
     "EnableShowAllPrices": 0,
