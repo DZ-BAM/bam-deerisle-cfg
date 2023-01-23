@@ -1,24 +1,24 @@
 {
     "Shirts": [
-        "TShirt_Grey"
+        "MVS_CombatShirt_Multicam_Black"
     ],
     "Pants": [
-        "SlacksPants_Blue"
+        "MVS_CombatPants_Multicam_Black"
     ],
     "Shoes": [
-        "HikingBootsLow_Blue"
+        "CombatBoots_Grey"
     ],
     "BackPacks": [
-        "TaloonBag_Blue"
+        "MVS_Assault_Pack_Multicam_Black"
     ],
     "Vests": [
-        "SmershVest"
+        "MVS_Combat_Vest_Heavy_Black"
     ],
     "Headgear": [
-        "BaseballCap_Blue"
+        "MVS_WarriorHelmet_Multicam_Black"
     ],
     "Gloves": [
-        "SurgicalGloves_Blue"
+        "TacticalGloves_Black"
     ],
     "Misc": [
         "CivilianBelt"
@@ -32,7 +32,6 @@
     ],
     "WeaponRifle": [
         "M4A1",
-        "SVD",
         "AKM"
     ],
     "WeaponRifleMagCount": [
