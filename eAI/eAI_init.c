@@ -7,10 +7,10 @@ ref array<ref Patrol> PATROLS = {
 	new Patrol({"7186.006836 574.587952 11549.01660"}), //KMUC Prison 01
 	new Patrol({"7146.048340 567.388428 11608.483398"}), //KMUC Prison 02
 	new Patrol({"7166.415039 563.799622 11632.727539"}), //KMUC Prison 03
-	new Patrol({"7159.6875 552.6249 11595.3222"}), //KMUC Prison 04
-	new Patrol({"7179.2324 527.1196 11666.8642"}), //KMUC MidLevel01
-	new Patrol({"7162.1127 522.0944 11682.6308"}), //KMUC MidLevel02
-	new Patrol({"7160.9536 537.7292 11589.1523"}), //KMUC MidLevel03
+	//new Patrol({"7159.6875 552.6249 11595.3222"}), //KMUC Prison 04
+	//new Patrol({"7179.2324 527.1196 11666.8642"}), //KMUC MidLevel01
+	//new Patrol({"7162.1127 522.0944 11682.6308"}), //KMUC MidLevel02
+	//new Patrol({"7160.9536 537.7292 11589.1523"}), //KMUC MidLevel03
 	};
 
 autoptr array<autoptr eAIDynamicPatrol> EAI_DYNAMIC_PATROLS = {};
