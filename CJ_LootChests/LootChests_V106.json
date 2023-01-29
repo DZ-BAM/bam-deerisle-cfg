@@ -8,12 +8,39 @@
             "name": "KMUC BunkerPrison",
             "number": 1,
             "pos": [
-                "7198.76 574.621 11556.5|0 0 0"
+                "7198.76 574.621 11556.5|0 0 0",
+				"7166.03 567.431 11611.4|0 0 -0",
+				"7195.87 568.043 11591.1|0 0 -0"
             ],
             "keyclass": "CJ_Key1",
             "openable": 0,
             "chest": [
                 "CJ_LootChest_Brown_Small",
+                "CJ_LootChest_Brown_Medium"
+            ],
+            "lootrandomize": 0.0,
+            "light": 0,
+            "loot": [
+                "LC_Table_Weapons_1",
+                "LC_Table_Weapons_2",
+                "NailBox",
+                "NailBox",
+                "NailBox",
+                "CombatKnife",
+                "Rag",
+                "HandSaw",
+                "Hammer"
+            ]
+        },
+		{
+            "name": "KMUC BunkerPrison",
+            "number": 1,
+            "pos": [
+                "7183.22 537.755 11578.6|180 0 0"
+            ],
+            "keyclass": "CJ_Key2",
+            "openable": 0,
+            "chest": [
                 "CJ_LootChest_Brown_Medium",
                 "CJ_LootChest_Brown_Large"
             ],
