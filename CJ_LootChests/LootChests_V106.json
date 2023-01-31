@@ -17,7 +17,7 @@
             "keyclass": "CJ_Key1",
             "openable": 0,
             "chest": [
-                "CJ_LootChest_Wood_Brown_Large"             
+                "CJ_LootChest_Green_Large"             
             ],
             "lootrandomize": 0.5,
             "light": 0,
@@ -50,7 +50,7 @@
             "keyclass": "CJ_Key2",
             "openable": 0,
             "chest": [
-                "CJ_LootChest_Wood_Brown_Large"
+                "CJ_LootChest_Green_Large"
             ],
             "lootrandomize": 0.5,
             "light": 0,
@@ -80,7 +80,7 @@
             "keyclass": "CJ_Key3",
             "openable": 0,
             "chest": [
-                "CJ_LootChest_Wood_Brown_Large"
+                "CJ_LootChest_Green_Large"
             ],
             "lootrandomize": 0.5,
             "light": 0,
