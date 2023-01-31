@@ -17,8 +17,7 @@
             "keyclass": "CJ_Key1",
             "openable": 0,
             "chest": [
-                "CJ_LootChest_Brown_Small",
-                "CJ_LootChest_Brown_Medium"
+                "CJ_LootChest_Olive_Large"             
             ],
             "lootrandomize": 0.5,
             "light": 0,
@@ -42,20 +41,19 @@
             "name": "Tier 2",
             "number": 8,
             "pos": [
-                "7183.22 537.755 11578.60|180 0 0",
-				"12785.00 10.27 15603.20|-132 0 0",
-				"13524.00 0.68 13756.300|-40 0 0",
-				"15374.8 376.42 14892.60|-99 2 9",
-				"15437.9 35.89 15203.200|-142 0 0",
-				"15257.0 17.6674 15338.3|-140 0 0",
+                "7183.22 537.755 11578.60|0 0 0",
+				"12785.00 10.27 15603.20|0 0 0",
+				"13524.00 0.68 13756.300|0 0 0",
+				"15374.8 376.42 14892.60|0 0 0",
+				"15437.9 35.89 15203.200|0 0 0",
+				"15257.0 17.6674 15338.3|0 0 0",
 				"7197.35 334.564 11572.9|0 0 0",
 				"7183.37 474.135 11684.5|0 0 0"
             ],
             "keyclass": "CJ_Key2",
             "openable": 0,
             "chest": [
-                "CJ_LootChest_Brown_Medium",
-                "CJ_LootChest_Brown_Large"
+                "CJ_LootChest_Olive_Large"
             ],
             "lootrandomize": 0.5,
             "light": 0,
@@ -77,23 +75,23 @@
             "name": "Tier 3",
             "number": 5,
             "pos": [
-				"14532.00 23.30 14592.00|0 23 0",
-				"15266.4 24.9975 15390.9|131 0 0",
-				"15643.7 176.342 14819.1|-74 0 0",
-				"15616.9 173.513 14782.5|98 0 0",
+				"14532.00 23.30 14592.00|0 0 0",
+				"15266.4 24.9975 15390.9|0 0 0",
+				"15643.7 176.342 14819.1|0 0 0",
+				"15616.9 173.513 14782.5|0 0 0",
 				"7189.99 251 11602|0 0 0",
 				"7190.03 250.998 11581.4|0 0 0"
             ],
             "keyclass": "CJ_Key3",
             "openable": 0,
             "chest": [
-                "CJ_LootChest_Brown_Large"
+                "CJ_LootChest_Olive_Large"
             ],
             "lootrandomize": 0.5,
             "light": 0,
             "loot": [
-                "LC_Table_Weapons_2",
-                "LC_Table_Weapons_3",
+                "LC_Table_Weapons_2|0.5",
+                "LC_Table_Weapons_3|0.5",
 				"LC_Table_Ammo",
 				"LC_Table_Ammo",
 				"LC_Table_Ammo",
