@@ -6,7 +6,7 @@
     "LootChestsLocations": [
         {
             "name": "Tier 1",
-            "number": 5,
+            "number": 2,
             "pos": [
                 "7198.76 574.621 11556.5|0 0 0",
 				"7166.03 567.431 11611.4|0 0 -0",
@@ -17,15 +17,12 @@
             "keyclass": "CJ_Key1",
             "openable": 0,
             "chest": [
-                "CJ_LootChest_Olive_Large"             
+                "CJ_LootChest_Wood_Brown_Large"             
             ],
             "lootrandomize": 0.5,
             "light": 0,
             "loot": [
                 "LC_Table_Weapons_1",
-				"LC_Table_Ammo",
-				"LC_Table_Ammo",
-				"LC_Table_Ammo",
 				"LC_Table_Ammo",
                 "NailBox",
                 "NailBox",
@@ -39,7 +36,7 @@
         },
 		{
             "name": "Tier 2",
-            "number": 8,
+            "number": 2,
             "pos": [
                 "7183.22 537.755 11578.60|0 0 0",
 				"12785.00 10.27 15603.20|0 0 0",
@@ -53,15 +50,13 @@
             "keyclass": "CJ_Key2",
             "openable": 0,
             "chest": [
-                "CJ_LootChest_Olive_Large"
+                "CJ_LootChest_Wood_Brown_Large"
             ],
             "lootrandomize": 0.5,
             "light": 0,
             "loot": [
                 "LC_Table_Weapons_1",
                 "LC_Table_Weapons_2",
-				"LC_Table_Ammo",
-				"LC_Table_Ammo",
 				"LC_Table_Ammo",
 				"LC_Table_Ammo",
 				"LC_Table_Ammo",
@@ -73,19 +68,19 @@
         },
 		{
             "name": "Tier 3",
-            "number": 5,
+            "number": 2,
             "pos": [
 				"14532.00 23.30 14592.00|0 0 0",
 				"15266.4 24.9975 15390.9|0 0 0",
 				"15643.7 176.342 14819.1|0 0 0",
 				"15616.9 173.513 14782.5|0 0 0",
-				"7189.99 251 11602|0 0 0",
+				"7189.99 251.0 11602|0 0 0",
 				"7190.03 250.998 11581.4|0 0 0"
             ],
             "keyclass": "CJ_Key3",
             "openable": 0,
             "chest": [
-                "CJ_LootChest_Olive_Large"
+                "CJ_LootChest_Wood_Brown_Large"
             ],
             "lootrandomize": 0.5,
             "light": 0,
@@ -95,14 +90,11 @@
 				"LC_Table_Ammo",
 				"LC_Table_Ammo",
 				"LC_Table_Ammo",
-				"LC_Table_Ammo",
-				"LC_Table_Ammo",
-				"LC_Table_Ammo",
-				"LC_Table_Ammo",
                 "NailBox",
 				"BBP_Mortar_Mix",
 				"BBP_Mortar_Mix",				
 				"BBP_Cement",
+				"TTC_AKMod_762x54_65rnd",
 				"HDSN_BreachingChargeHeavy|0.2",
 				"HDSN_BreachingCharge|0.3"
             ]
@@ -189,7 +181,7 @@
             "attachments": [             
 				"M4_CQBBttstck"
             ],
-            "optic": "ReflexOptic",
+            "optic": "HuntingOptic",
             "opticbattery": 1
         },
 		{
@@ -218,7 +210,7 @@
             "magazine": "TTC_GEVAR43_Magazine_10rnd",
             "attachments": [             
             ],
-            "optic": "ReflexOptic",
+            "optic": "HuntingOptic",
             "opticbattery": 1
         },
 		{
@@ -227,7 +219,7 @@
             "magazine": "TTC_338mag_10rnd",
             "attachments": [             
             ],
-            "optic": "ReflexOptic",
+            "optic": "HuntingOptic",
             "opticbattery": 1
         }
     ],
@@ -292,9 +284,7 @@
 				"Mag_SVD_10Rnd",
 				"TTC_50Beo_mag",
 				"TTC_M82_5rnd_Mag",
-				"TTC_GEVAR43_Magazine_10rnd",
-				"TTC_GEVAR43_Magazine_10rnd",
-							
+				"TTC_GEVAR43_Magazine_10rnd"							
             ]
         },
         {

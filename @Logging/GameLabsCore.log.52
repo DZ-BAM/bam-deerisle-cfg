@@ -1,0 +1,5 @@
+************************** 2023-01-31T17:02:16+00:00 **************************
+2023-01-31T17:02:42+00:00 | [INFO	] Server up (GameLabs v1.830)
+2023-01-31T17:02:42+00:00 | [INFO	] Experimental speed check is enabled
+2023-01-31T17:02:43+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2023-01-31T17:04:12+00:00 | [ERROR	] PlayerConnect errorCode(5)
