@@ -22,19 +22,19 @@
             "name": "CJ_Key1",
             "time": 3,
             "dmg": 10,
-            "desc": "Black Key|This key will open a military crate inside the Tisy Headquarters Building!"
+            "desc": "Tier 1 Key|This key will open Tier 1 crates!"
         },
         {
             "name": "CJ_Key2",
             "time": 3,
             "dmg": 10,
-            "desc": "Military Key|This key will open a military crate inside the Tisy Headquarters Building!"
+            "desc": "Tier 2 Key|This key will open Tier 2 crates!"
         },
         {
             "name": "CJ_Key3",
             "time": 3,
             "dmg": 10,
-            "desc": "Tisy HQ Key|This key will open a military crate inside the Tisy Headquarters Building!"
+            "desc": "Tier 3 Key|This key will open Tier 3 crates!"
         },
         {
             "name": "CJ_Key4",
