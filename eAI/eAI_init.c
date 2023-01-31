@@ -6,7 +6,7 @@ ref array<ref Patrol> PATROLS = {
 	new Patrol({"3808.982422 20.477251 5628.560547", "4104.060059 20.430000 5799.379883"}), //bahnsüd
 	new Patrol({"7186.006836 574.587952 11549.01660"}), //KMUC 01
 	new Patrol({"7188.153809 537.715027 11578.599609"}), //KMUC 02
-	new Patrol({"7172.917480 556.599548 11574.455078"}), //KMUC 03
+	//new Patrol({"7172.917480 556.599548 11574.455078"}), //KMUC 03
 	};
 
 autoptr array<autoptr eAIDynamicPatrol> EAI_DYNAMIC_PATROLS = {};
