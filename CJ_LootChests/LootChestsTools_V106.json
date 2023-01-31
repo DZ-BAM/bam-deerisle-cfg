@@ -21,19 +21,19 @@
         {
             "name": "CJ_Key1",
             "time": 3,
-            "dmg": 10,
+            "dmg": 30,
             "desc": "Tier 1 Key|This key will open Tier 1 crates!"
         },
         {
             "name": "CJ_Key2",
             "time": 3,
-            "dmg": 10,
+            "dmg": 30,
             "desc": "Tier 2 Key|This key will open Tier 2 crates!"
         },
         {
             "name": "CJ_Key3",
             "time": 3,
-            "dmg": 10,
+            "dmg": 30,
             "desc": "Tier 3 Key|This key will open Tier 3 crates!"
         },
         {
