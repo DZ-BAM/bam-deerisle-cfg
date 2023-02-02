@@ -341,7 +341,7 @@
 			"Items": [
 				{
 					"Item": "TTC_AKModPK",
-					"MinQty": 1,
+					"MinQty": 0,
 					"MaxQty": 1,
 					"Attachments": [
 						"TTC_AKMod_bttstk",
@@ -352,7 +352,7 @@
 				},
 				{
 					"Item": "TTC_ModDMR_762",
-					"MinQty": 1,
+					"MinQty": 0,
 					"MaxQty": 1,
 					"Attachments": [
 						"TTC_DMR_HndguardDesert",
@@ -365,7 +365,7 @@
 				},
 				{
 					"Item": "TTC_SCARH",
-					"MinQty": 1,
+					"MinQty": 0,
 					"MaxQty": 1,
 					"Attachments": [
 						"TTC_SCARHMag"
@@ -373,7 +373,7 @@
 				},
 				{
 					"Item": "TTC_M24",
-					"MinQty": 1,
+					"MinQty": 0,
 					"MaxQty": 1,
 					"Attachments": [
 						"TTC_M24mag_5rnd",
@@ -382,7 +382,7 @@
 				},
 				{
 					"Item": "TTC_AK12",
-					"MinQty": 1,
+					"MinQty": 0,
 					"MaxQty": 1,
 					"Attachments": [
 						"TTC_Buttstock_AK12",
@@ -391,7 +391,7 @@
 				},
 				{
 					"Item": "TTC_FAL",
-					"MinQty": 1,
+					"MinQty": 0,
 					"MaxQty": 1,
 					"Attachments": [
 						"TTC_Coupled_FAL_Magazine",
@@ -401,7 +401,7 @@
 				},
 				{
 					"Item": "TTC_AWM",
-					"MinQty": 1,
+					"MinQty": 0,
 					"MaxQty": 1,
 					"Attachments": [
 						"TTC_AWM_Magazine_5rnd",
@@ -529,14 +529,20 @@
 			"Items": [
 				{
 					"Item": "HDSN_Sulfur",
-					"MinQty": 0,
-					"MaxQty": 2,
+					"MinQty": 1,
+					"MaxQty": 5,
 					"Attachments": []
 				},
 				{
 					"Item": "HDSN_Charcoal",
-					"MinQty": 0,
-					"MaxQty": 2,
+					"MinQty": 1,
+					"MaxQty": 5,
+					"Attachments": []
+				},
+				{
+					"Item": "CP_EmptyBag",
+					"MinQty": 50,
+					"MaxQty": 250,
 					"Attachments": []
 				},
 				{
@@ -656,7 +662,7 @@
 	"DropHeight": 200,
 	"DropTime": 15,
 	"MinutesAway": 2,
-	"ItemsToSpawn": 15,
+	"ItemsToSpawn": 500,
 	"ZombiesToSpawn": 15,
 	"LootSpawnType": 1,
 	"Title": "Care Package",

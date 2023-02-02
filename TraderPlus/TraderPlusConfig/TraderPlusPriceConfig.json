@@ -1632,7 +1632,7 @@
                 "CP_CannabisBrickNomad,1,-1,1,-1,17000",
                 "CP_CannabisSeedsPackBlackFrost,1,-1,1,-1,2000",
                 "CP_CannabisBrickBlackFrost,1,-1,1,-1,30000",
-				"CP_EmptyBag,1.-1,1,150,-1"
+				"CP_EmptyBag,1,-1,1,150,-1"
             ]
         },
         {
