@@ -94,7 +94,8 @@
         {
             "Id": 5,
             "Categories": [
-                "Helicopters",
+                "RFFS Helicopters",
+				"Helicopters",
                 "Helicopter Parts"
             ],
             "LicencesRequired": [],
