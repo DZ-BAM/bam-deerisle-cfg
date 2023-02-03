@@ -1,0 +1,9 @@
+************************** 2023-02-03T12:43:17+00:00 **************************
+2023-02-03T12:43:45+00:00 | [INFO	] Server up (GameLabs v1.830)
+2023-02-03T12:43:45+00:00 | [INFO	] Experimental speed check is enabled
+2023-02-03T12:43:46+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2023-02-03T12:48:05+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-02-03T12:48:05+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-02-03T12:48:05+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198034055987, distance=23.3325u, unitsPerSecond=9.33301 [threshold=8, inVehicle=0, triggers=1])
+2023-02-03T12:48:05+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-02-03T12:48:05+00:00 | [WARN	] ****************************************
