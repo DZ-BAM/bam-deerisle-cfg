@@ -1475,9 +1475,9 @@
         {
             "CategoryName": "RFFS Helicopters",
             "Products": [
-                "RFFSHeli_LittleBird,1,-1,1,-1,450000",
-                "RFFSHeli_LittleBird_Camo,1,-1,1,-1,450000",
-                "RFFSHeli_LittleBird_Desert,1,-1,1,-1,450000",
+                "RFFSHeli_LittleBird,1,-1,1,600000,300000",
+                "RFFSHeli_LittleBird_Camo,1,-1,1,600000,300000",
+                "RFFSHeli_LittleBird_Desert,1,-1,1,600000,300000",
                 "RFFSHeli_Bo105m,1,-1,1,-1,600000",
                 "RFFSHeli_Bo105m_blackcamo,1,-1,1,-1,600000",
                 "RFFSHeli_KA26,1,-1,1,-1,750000",
