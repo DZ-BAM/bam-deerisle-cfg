@@ -10,9 +10,9 @@
     "EnableShowAllPrices": 0,
     "EnableShowAllCheckBox": 1,
     "IsReceiptTraderOnly": 1,
-    "IsReceiptSaveLock": 0,
-    "IsReceiptSaveAttachment": 0,
-    "IsReceiptSaveCargo": 0,
+    "IsReceiptSaveLock": 1,
+    "IsReceiptSaveAttachment": 1,
+    "IsReceiptSaveCargo": 1,
     "LockPickChance": 0.30000001192092898,
     "LicenceKeyWord": "Licence",
     "Licences": [
