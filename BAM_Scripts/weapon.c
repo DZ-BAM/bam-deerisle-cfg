@@ -1,6 +1,8 @@
 #ifndef BAM_WEAPON
 #define BAM_WEAPON
 
+#include "$CurrentDir:bam-deerisle-cfg/BAM_Scripts/error.c"
+
 class BAM_Weapon {
     string name;
     ref array<string> attachments;
@@ -21,13 +23,18 @@ class BAM_Weapon {
     }
 
     void addToInventory(GameInventory inventory) {
-        auto weapon = Weapon_Base.Cast(inventory.CreateInInventory(this.name));
+        auto entity = inventory.CreateInInventory(this.name);
+        Weapon_Base weapon;
 
-        foreach (auto attachment: this.attachments) {
-            weapon.GetInventory().CreateInInventory(attachment);
+        if (Class.CastTo(weapon, entity)) {
+            foreach (auto attachment: this.attachments) {
+                weapon.GetInventory().CreateInInventory(attachment);
+            }
+
+            this.magazine.addToWeapon(weapon);
+        } else {
+            BAM_error("Entity '" + this.name + "' is not a weapon!");
         }
-
-        this.magazine.addToWeapon(weapon);
     }
 };
 
