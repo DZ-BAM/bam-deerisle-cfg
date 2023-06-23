@@ -17,7 +17,7 @@ void BAM_SetStartingEquipment(PlayerBase player) {
 		"",
 	);
 
-	array<string> ITEMS = {"CombatKnife"};
+	array<string> ITEMS = {};
 	array<string> CHEMLIGHTS = {
 		"Chemlight_White",
 		"Chemlight_Yellow",
