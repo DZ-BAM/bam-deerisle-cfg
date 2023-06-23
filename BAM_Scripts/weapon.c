@@ -43,6 +43,6 @@ class BAM_Magazine {
     void addToWeapon(Weapon_Base weapon) {
         weapon.SpawnAmmo(this.name, this.flags);
     }
-}
+};
 
 #endif
