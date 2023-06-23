@@ -1,8 +1,13 @@
 #ifndef BAM_SPAWN
 #define BAM_SPAWN
 
+#ifndef BAM_CLOTHING
 #include "$CurrentDir:bam-deerisle-cfg/BAM_Scripts/clothing.c"
+#endif
+
+#ifndef BAM_INVENTORY
 #include "$CurrentDir:bam-deerisle-cfg/BAM_Scripts/inventory.c"
+#endif
 
 const ref BAM_Clothing CLOTHING = new BAM_Clothing(
 	"ChernarusSportShirt",

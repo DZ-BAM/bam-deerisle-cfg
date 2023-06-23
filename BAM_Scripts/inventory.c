@@ -1,7 +1,13 @@
 #ifndef BAM_INVENTORY
 #define BAM_INVENTORY
 
+#ifndef BAM_ERROR
+#include "$CurrentDir:bam-deerisle-cfg/BAM_Scripts/error.c"
+#endif
+
+#ifndef BAM_WEAPON
 #include "$CurrentDir:bam-deerisle-cfg/BAM_Scripts/weapon.c"
+#endif
 
 class BAM_Inventory {
     ref array<string> items;
@@ -47,6 +53,8 @@ class BAM_Inventory {
 
             if (Class.CastTo(item, entity)) {
                 item.SetQuantity(quantity);
+            } else {
+                BAM_error("Entity '" + name + "' is not an item!");
             }
         }
     }

@@ -1,7 +1,9 @@
 #ifndef BAM_WEAPON
 #define BAM_WEAPON
 
+#ifndef BAM_ERROR
 #include "$CurrentDir:bam-deerisle-cfg/BAM_Scripts/error.c"
+#endif
 
 class BAM_Weapon {
     string name;
