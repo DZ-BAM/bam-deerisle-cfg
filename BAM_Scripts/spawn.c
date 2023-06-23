@@ -28,7 +28,7 @@ void BAM_SetStartingEquipment(PlayerBase player) {
 	array<array<string>> RANDOM_ITEMS = {CHEMLIGHTS, FRUITS};
 	auto INVENTORY = new BAM_Inventory(ITEMS, RANDOM_ITEMS, QUANTIZED_ITEMS);
 
-	CLOTHING.applyTo(player);
+	CLOTHING.applyToPlayer(player);
 	INVENTORY.addToPlayer(player);
 }
 

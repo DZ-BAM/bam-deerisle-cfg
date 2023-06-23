@@ -18,7 +18,7 @@ class BAM_Clothing {
         this.hands = hands;
 	}
 
-    void applyTo(PlayerBase player) {
+    void applyToPlayer(PlayerBase player) {
         player.RemoveAllItems();
         this.addToInventoy(player.GetInventory());
     }
