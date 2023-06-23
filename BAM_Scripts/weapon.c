@@ -49,6 +49,14 @@ class BAM_Magazine {
         this.flags = flags;
     }
 
+    void addToPlayer(PlayerBase player) {
+        this.addToInventory(player.GetInventory());
+    }
+
+    void addToInventory(GameInventory inventory) {
+        inventory.CreateInInventory(this.name);
+    }
+
     void addToWeapon(Weapon_Base weapon) {
         weapon.SpawnAmmo(this.name, this.flags);
     }
