@@ -24,38 +24,7 @@ const ref BAM_Inventory INVENTORY = new BAM_Inventory(
 		{"Apple", "Pear", "Plum"},
 	},
 	BAM_quantizedItems(),
-	{
-		new BAM_Weapon(
-			"M4A1",
-			{
-				"M4_OEBttstck",
-				"M4_RISHndgrd",
-				"UniversalLight",
-				"M4_Suppressor",
-				"M4_T3NRDSOptic",
-				"Battery9V",
-				"Battery9V",
-			},
-			new BAM_Magazine(
-				"Mag_STANAGCoupled_30Rnd",
-				WeaponWithAmmoFlags.CHAMBER,
-			),
-		),
-		new BAM_Weapon(
-			"Glock19",
-			{
-				"PistolSuppressor",
-				"FNP45_MRDSOptic",
-				"TLRLight",
-				"Battery9V",
-				"Battery9V",
-			},
-			new BAM_Magazine(
-				"Mag_Glock_15Rnd",
-				WeaponWithAmmoFlags.CHAMBER,
-			),
-		),
-	},
+	{},
 );
 
 ref map<string, int> BAM_quantizedItems() {
