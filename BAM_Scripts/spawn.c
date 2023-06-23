@@ -1,45 +1,30 @@
-const ref TStringArray FOOD = {"Apple", "Pear", "Plum"};
-const ref TStringArray CHEM_LIGHTS = {"Chemlight_White", "Chemlight_Yellow", "Chemlight_Green", "Chemlight_Red"};
-const string SHOES = "jmc_Military_mountain_boots_black";
+#ifndef BAM_SPAWN
+#define BAM_SPAWN
+#include "$CurrentDir:bam-deerisle-cfg/BAM_Scripts/clothing.c"
+#include "$CurrentDir:bam-deerisle-cfg/BAM_Scripts/inventory.c"
+
+const autoptr BAM_Clothing CLOTHING = new BAM_Clothing(
+	"ChernarusSportShirt",
+	"SlacksPants_Beige",
+	"jmc_Military_mountain_boots_black",
+	"",
+	"",
+	"",
+);
+const autoptr BAM_Inventory INVENTORY = new BAM_Inventory(
+	{"CombatKnife", "Rag"},
+	{
+		{"Chemlight_White", "Chemlight_Yellow", "Chemlight_Green", "Chemlight_Red"},
+		{"Apple", "Pear", "Plum"},
+	},
+	{
+		new BAM_QuantizedItem("Rag", 4),
+	},
+);
 
 void BAM_SetStartingEquipment(PlayerBase player) {
-	BAM_SetRandomlyWornRags(player, 4);
-	BAM_SetRandomChemlight(player);
-	BAM_SetRandomFood(player);
-	BAM_SetClothing(player);
+	CLOTHING.applyTo(player);
+	INVENTORY.addToPlayer(player);
 }
 
-void BAM_SetRandomlyWornRags(PlayerBase player, int amount) {
-	EntityAI body = player.FindAttachmentBySlotName("Body");
-
-	if (body) {
-		EntityAI ragEntity = body.GetInventory().CreateInInventory("Rag");
-		ItemBase ragItem;
-
-		if (Class.CastTo(ragItem, ragEntity)) {
-			ragItem.SetQuantity(amount);
-		}
-	}
-}
-
-void BAM_SetRandomChemlight(PlayerBase player) {
-	EntityAI body = player.FindAttachmentBySlotName("Body");
-
-	if (body) {
-		body.GetInventory().CreateInInventory(CHEM_LIGHTS.GetRandomElement());
-	}
-}
-
-void BAM_SetRandomFood(PlayerBase player) {
-	player.GetInventory().CreateInInventory(FOOD.GetRandomElement());
-}
-
-void BAM_SetClothing(PlayerBase player) {
-	EntityAI feet = player.FindAttachmentBySlotName("Feet");
-	
-	if (feet) {
-		feet.GetInventory().CreateInInventory(SHOES);
-	} else {
-		player.GetInventory().CreateInInventory(SHOES);
-	}
-}
+#endif
