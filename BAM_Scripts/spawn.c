@@ -18,7 +18,7 @@ const ref BAM_Clothing CLOTHING = new BAM_Clothing(
 	"",
 );
 const ref BAM_Inventory INVENTORY = new BAM_Inventory(
-	{"CombatKnife"},
+	{},
 	{
 		{
 			"Chemlight_White",
