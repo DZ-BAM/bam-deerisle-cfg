@@ -9,9 +9,16 @@
     "MustRemoveArmband": "You must remove your armband in order to make your stash appear !",
     "SafeAreaLocation": [
         {
-            "SafeZoneStatut": "Trader",
+            "SafeZoneStatut": "Groots Hill",
             "X": 7527.0,
             "Y": 4604.0,
+            "Radius": 150.0,
+            "Countdown": 10
+        },
+        {
+            "SafeZoneStatut": "Bayville Trader",
+            "X": 9197.0,
+            "Y": 13040.0,
             "Radius": 150.0,
             "Countdown": 10
         },
@@ -19,6 +26,13 @@
             "SafeZoneStatut": "Aircraft Trader",
             "X": 5848.0,
             "Y": 2585.0,
+            "Radius": 30.0,
+            "Countdown": 0
+        },
+        {
+            "SafeZoneStatut": "Boat Trader",
+            "X": 3773.0,
+            "Y": 2429.0,
             "Radius": 30.0,
             "Countdown": 0
         }
