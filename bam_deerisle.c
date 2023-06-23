@@ -47,7 +47,7 @@ void BAM_SetRandomFruit(PlayerBase player) {
 }
 
 void BAM_SetClothing(PlayerBase player) {
-	EntityAI feet = player.FindAttachmentBySlotName("Feet")
+	EntityAI feet = player.FindAttachmentBySlotName("Feet");
 	
 	if (feet) {
 		feet.GetInventory().CreateInInventory("jmc_Military_mountain_boots_black");
