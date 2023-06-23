@@ -55,8 +55,31 @@
         "Icon": "BasicMap\\gui\\images\\heli.paa",
         "Is3DMarker": 1,
         "Colour": [
-			255,
 			0,
+			255,
+			0
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "deerisle",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    },
+    {
+        "Name": "Boat Trader",
+        "Pos": [
+			3773.0,
+			2.0,
+			2429.0
+        ],
+        "Icon": "BasicMap\\gui\\images\\location.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+			0,
+			255,
 			0
         ],
         "Alpha": 240,
