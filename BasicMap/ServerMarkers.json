@@ -1,10 +1,33 @@
 [
     {
-        "Name": "Safezone Trader",
+        "Name": "Groots Hill Safezone Trader",
         "Pos": [
 			7518.0,
 			0.0,
 			4605.0
+        ],
+        "Icon": "BasicMap\\gui\\images\\cart.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+			0,
+			255,
+			0
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "deerisle",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    },
+    {
+        "Name": "Bayville Safezone Trader",
+        "Pos": [
+			9197.0,
+			46.0,
+			13040.0
         ],
         "Icon": "BasicMap\\gui\\images\\cart.paa",
         "Is3DMarker": 1,
@@ -48,9 +71,9 @@
     {
         "Name": "Black Market",
         "Pos": [
-			11387.0,
-			30.39,
-			10369.0
+			12947.0,
+			57,
+			9812.0
         ],
         "Icon": "BasicMap\\gui\\images\\guns.paa",
         "Is3DMarker": 1,
