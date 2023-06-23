@@ -124,7 +124,8 @@
         },
 		{
             "Id": 8,
-            "Categories": [            
+            "Categories": [
+				"Boats"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
