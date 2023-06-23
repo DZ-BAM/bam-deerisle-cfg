@@ -1518,6 +1518,21 @@
                 "GunnerTruck,1,-1,1,1000000,750000"
             ]
         },
+		{
+            "CategoryName": "Boats",
+            "Products": [
+                "RFWC_Whaler,1,-1,1,200000,50000",
+                "RFWC_CarpBoat,1,-1,1,200000,50000",
+                "RFWC_CarpBoat_Rusty,1,-1,1,200000,50000",
+                "RFWC_Zodiac_Orange,1,-1,1,200000,50000",
+                "RFWC_Zodiac_Black,1,-1,1,400000,50000",
+                "RFWC_DragBoat_Black,1,-1,1,400000,50000",
+                "RFWC_DragBoat_Red,1,-1,1,400000,50000",
+                "RFWC_Seadoo_Camo,1,-1,1,400000,50000",
+                "RFWC_Seadoo_Orange,1,-1,1,400000,50000",
+                "RFWC_Seadoo_Green,1,-1,1,400000,50000"
+            ]
+        },
         {
             "CategoryName": "RFFS Helicopters",
             "Products": [
@@ -1554,6 +1569,7 @@
             "CategoryName": "Vehicle Parts",
             "Products": [
                 "TraderPlusWrench,1,-1,0,30,30",
+				"Blowtorch,1,-1,0,200,30",
                 "HeadlightH7_Box,1,-1,0,30,10",
                 "SparkPlug,1,-1,0,60,20",
                 "EngineOil,1,-1,1000,70,40",
