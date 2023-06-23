@@ -2,14 +2,14 @@
 #define BAM_INVENTORY
 
 class BAM_Inventory {
-    array<string> items;
-    array<array<string>> random_items;
-    map<string, int> quantized_items;
+    ref array<string> items;
+    ref array<ref array<string>> random_items;
+    ref map<string, int> quantized_items;
 
     void BAM_Inventory(
-            array<string> items,
-            array<array<string>> random_items,
-            map<string, int> quantized_items,
+            ref array<string> items,
+            ref array<ref array<string>> random_items,
+            ref map<string, int> quantized_items,
     ) {
         this.items = items;
         this.random_items = random_items;
@@ -21,7 +21,6 @@ class BAM_Inventory {
     }
 
     void addToInventory(GameInventory inventory) {
-
         foreach (auto item: this.items) {
             inventory.CreateInInventory(item);
         }
@@ -35,8 +34,8 @@ class BAM_Inventory {
 
     void addQuantizedItemsToInventory(GameInventory inventory) {
         EntityAI entity;
-        ItemBase item;        
-        
+        ItemBase item;
+
         foreach (auto name, auto quantity: this.quantized_items) {
             entity = inventory.CreateInInventory(name);
 
