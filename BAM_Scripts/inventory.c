@@ -1,30 +1,64 @@
 #ifndef BAM_INVENTORY
 #define BAM_INVENTORY
 
-class BAM_Inventory {
-    array<string> m_items;
-    array<array<string>> m_random_items;
+typedef array<array<string>> BAM_ItemSelections;
+typedef array<BAM_QuantizedItem> BAM_QuantizedItems;
 
-    void BAM_Inventory(array<string> items, array<array<string>> m_random_items) {
-        m_items = items;
-        m_random_items = m_random_items;
+class BAM_Inventory {
+    array<string> items;
+    BAM_ItemSelections random_items;
+    BAM_QuantizedItems quantized_items;
+
+    void BAM_Inventory(
+            array<string> items,
+            BAM_ItemSelections random_items,
+            BAM_QuantizedItems quantized_items,
+    ) {
+        this.items = items;
+        this.random_items = random_items;
+        this.quantized_items = quantized_items;
 	}
 
     void addToPlayer(PlayerBase player) {
-        addToInventory(player.GetInventory());
+        this.addToInventory(player.GetInventory());
     }
 
     void addToInventory(GameInventory inventory) {
-        if (m_items) {
-            foreach (auto item: m_items) {
+        if (this.items) {
+            foreach (auto item: this.items) {
                 inventory.CreateInInventory(item);
             }
         }
 
-        if (m_random_items) {
-            foreach (auto selection: m_random_items) {
+        if (this.random_items) {
+            foreach (auto selection: this.random_items) {
                 inventory.CreateInInventory(selection.GetRandomElement());
             }
+        }
+
+        if (this.quantized_items) {
+            foreach (auto quantized_item: this.quantized_items) {
+                quantized_item.addToInventory(inventory);
+            }
+        }
+    }
+};
+
+class BAM_QuantizedItem {
+    string name;
+    int quantity;
+
+    void BAM_QuantizedItem(string name, int quantity) {
+        this.name = name;
+        this.quantity = quantity;
+    }
+
+    void addToInventory(GameInventory inventory) {
+        EntityAI entity = inventory.CreateInInventory(this.name);
+        ItemBase item;        
+        
+        if (Class.CastTo(item, entity)) {
+            item.SetQuantity(this.quantity);
         }
     }
 };

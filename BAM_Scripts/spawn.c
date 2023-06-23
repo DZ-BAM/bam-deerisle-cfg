@@ -17,6 +17,9 @@ const autoptr BAM_Inventory INVENTORY = new BAM_Inventory(
 		{"Chemlight_White", "Chemlight_Yellow", "Chemlight_Green", "Chemlight_Red"},
 		{"Apple", "Pear", "Plum"},
 	},
+	{
+		new BAM_QuantizedItem("Rag", 4),
+	},
 );
 
 void BAM_SetStartingEquipment(PlayerBase player) {

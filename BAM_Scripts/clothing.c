@@ -2,50 +2,50 @@
 #define BAM_CLOTHING
 
 class BAM_Clothing {
-    string m_top;
-    string m_pants;
-    string m_shoes;
-    string m_backpack;
-    string m_helmet;
-    string m_hands;
+    string top;
+    string pants;
+    string shoes;
+    string backpack;
+    string helmet;
+    string hands;
 
     void BAM_Clothing(string top, string pants, string shoes, string backpack, string helmet, string hands) {
-        m_top = top;
-        m_pants = pants;
-        m_shoes = shoes;
-        m_backpack = backpack;
-        m_helmet = helmet;
-        m_hands = hands;
+        this.top = top;
+        this.pants = pants;
+        this.shoes = shoes;
+        this.backpack = backpack;
+        this.helmet = helmet;
+        this.hands = hands;
 	}
 
     void applyTo(PlayerBase player) {
         player.RemoveAllItems();
-        addToInventoy(player.GetInventory());
+        this.addToInventoy(player.GetInventory());
     }
 
     void addToInventoy(GameInventory inventory) {
-        if (m_top) {
-            inventory.CreateInInventory(m_top);
+        if (this.top) {
+            inventory.CreateInInventory(this.top);
         }
         
-        if (m_pants) {
-            inventory.CreateInInventory(m_pants);
+        if (this.pants) {
+            inventory.CreateInInventory(this.pants);
         }
         
-        if (m_shoes) {
-            inventory.CreateInInventory(m_shoes);
+        if (this.shoes) {
+            inventory.CreateInInventory(this.shoes);
         }
         
-        if (m_backpack) {
-            inventory.CreateInInventory(m_backpack);
+        if (this.backpack) {
+            inventory.CreateInInventory(this.backpack);
         }
         
-        if (m_helmet) {
-            inventory.CreateInInventory(m_helmet);
+        if (this.helmet) {
+            inventory.CreateInInventory(this.helmet);
         }
         
-        if (m_hands) {
-            inventory.CreateInInventory(m_hands);
+        if (this.hands) {
+            inventory.CreateInInventory(this.hands);
         }
     }
 };
