@@ -9,7 +9,14 @@ class BAM_Clothing {
     string helmet;
     string hands;
 
-    void BAM_Clothing(string top, string pants, string shoes, string backpack, string helmet, string hands) {
+    void BAM_Clothing(
+            string top,
+            string pants,
+            string shoes,
+            string backpack,
+            string helmet,
+            string hands,
+    ) {
         this.top = top;
         this.pants = pants;
         this.shoes = shoes;
