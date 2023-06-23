@@ -1,19 +1,24 @@
 #ifndef BAM_INVENTORY
 #define BAM_INVENTORY
 
+#include "$CurrentDir:bam-deerisle-cfg/BAM_Scripts/weapon.c"
+
 class BAM_Inventory {
     ref array<string> items;
     ref array<ref array<string>> random_items;
     ref map<string, int> quantized_items;
+    ref array<ref BAM_Weapon> weapons;
 
     void BAM_Inventory(
             ref array<string> items,
             ref array<ref array<string>> random_items,
             ref map<string, int> quantized_items,
+            ref array<ref BAM_Weapon> weapons,
     ) {
         this.items = items;
         this.random_items = random_items;
         this.quantized_items = quantized_items;
+        this.weapons = weapons;
 	}
 
     void addToPlayer(PlayerBase player) {
@@ -30,6 +35,7 @@ class BAM_Inventory {
         }
 
         this.addQuantizedItemsToInventory(inventory);
+        this.addWeaponsToInventory(inventory);
     }
 
     void addQuantizedItemsToInventory(GameInventory inventory) {
@@ -42,6 +48,12 @@ class BAM_Inventory {
             if (Class.CastTo(item, entity)) {
                 item.SetQuantity(quantity);
             }
+        }
+    }
+
+    void addWeaponsToInventory(GameInventory inventory) {
+        foreach (auto weapon: this.weapons) {
+            weapon.addToInventory(inventory);
         }
     }
 };
