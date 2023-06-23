@@ -14,3 +14,4 @@ VPPAdminTools/Logging/
 VPPAdminTools/Permissions/
 users/
 eAI/eAIAdmins.json
+.vscode/
