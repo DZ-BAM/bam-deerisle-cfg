@@ -15,8 +15,6 @@ void BAM_SetRandomlyWornRags(PlayerBase player, int amount) {
 		if (Class.CastTo(ragItem, ragEntity)) {
 			ragItem.SetQuantity(amount);
 		}
-
-		BAM_SetRandomHealth(ragEntity);
 	}
 }
 
@@ -26,8 +24,7 @@ void BAM_SetRandomChemlight(PlayerBase player) {
 	EntityAI body = player.FindAttachmentBySlotName("Body");
 
 	if (body) {
-		EntityAI chemlight = body.GetInventory().CreateInInventory(chemlightArray[rndIndex]);
-		BAM_SetRandomHealth(chemlight);
+		body.GetInventory().CreateInInventory(chemlightArray[rndIndex]);
 	}
 }
 
@@ -42,22 +39,12 @@ void BAM_SetRandomFruit(PlayerBase player) {
 	} else {
 		itemEnt = player.GetInventory().CreateInInventory("Plum");
 	}
-
-	BAM_SetRandomHealth(itemEnt);
 }
 
 void BAM_SetClothing(PlayerBase player) {
-	EntityAI feet = player.FindAttachmentBySlotName("Feet")
+	EntityAI feet = player.FindAttachmentBySlotName("Feet");
 	
 	if (feet) {
 		feet.GetInventory().CreateInInventory("jmc_Military_mountain_boots_black");
-	}
-}
-
-void BAM_SetRandomHealth(EntityAI itemEnt) {
-	float randomHealth = Math.RandomFloat(0.45, 0.65);
-
-	if (itemEnt) {
-		itemEnt.SetHealth01("", "", randomHealth);
 	}
 }
