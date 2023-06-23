@@ -1911,6 +1911,86 @@
 				"HeadlightH7",
 				"HeadlightH7"
             ]
+        },
+		{
+            "VehicleName": "RFWC_Whaler",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+       },
+       {
+            "VehicleName": "RFWC_CarpBoat",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        },
+       {
+            "VehicleName": "RFWC_CarpBoat_Rusty",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        },
+       {
+            "VehicleName": "RFWC_Zodiac_Orange",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        },
+       {
+            "VehicleName": "RFWC_Zodiac_Black",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        },
+       {
+            "VehicleName": "RFWC_DragBoat_Black",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        }	,
+       {
+            "VehicleName": "RFWC_DragBoat_Red",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        },
+       {
+            "VehicleName": "RFWC_Seadoo_Camo",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        },
+       {
+            "VehicleName": "RFWC_Seadoo_Orange",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        },
+       {
+            "VehicleName": "RFWC_Seadoo_Green",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
         }
     ]
 }
