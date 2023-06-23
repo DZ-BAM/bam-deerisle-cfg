@@ -156,6 +156,119 @@
             ]
         },
         {
+            "Id": 0,
+            "Name": "SurvivorM_Elias",
+            "GivenName": "Suleyman",
+            "Role": "Food Trader",
+            "Position": [
+                9189.84,
+                46.5757,
+                13022.8
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "HunterPants_Autumn",
+                "HuntingJacket_Autumn",
+                "HuntingVest",
+                "HikingBoots_Brown"
+            ]
+        },
+        {
+            "Id": 1,
+            "Name": "SurvivorF_Judy",
+            "GivenName": "Nyota",
+            "Role": "Weapon Trader",
+            "Position": [
+                9219.61,
+                49.0942,
+                13047.9
+            ],
+            "Orientation": [
+                -125.052,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "M65Jacket_Black",
+                "CargoPants_Black",
+                "MilitaryBoots_Black",
+                "TTC_AKMod_Gold",
+                "TTC_AKMod_Gold_Hndguard",
+                "TTC_AKMod_Gold_bttstk",
+                "TTC_M82_gold"
+            ]
+        },
+        {
+            "Id": 2,
+            "Name": "SurvivorF_Linda",
+            "GivenName": "Marissa",
+            "Role": "Tool Trader",
+            "Position": [
+                92129.9,
+                44.9595,
+                13024.4
+            ],
+            "Orientation": [
+                -78.39,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "ConstructionHelmet_Yellow",
+                "CargoPants_Grey",
+                "Shirt_RedCheck",
+                "Wellies_Black"
+            ]
+        },
+        {
+            "Id": 3,
+            "Name": "SurvivorM_Francis",
+            "GivenName": "Detlef",
+            "Role": "Clothes Trader",
+            "Position": [
+                9181.69,
+                46.9885,
+                13026.6
+            ],
+            "Orientation": [
+                125.3.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "Raincoat_Pink",
+                "AviatorGlasses",
+                "Skirt_Blue",
+                "BaselballCap_Pink",
+                "LeatherShoes_Brown"
+            ]
+        },
+        {
+            "Id": 4,
+            "Name": "SurvivorF_Baty",
+            "GivenName": "Anya",
+            "Role": "Car Trader",
+            "Position": [
+                9193.75,
+                45.6991,
+                12998.2
+            ],
+            "Orientation": [
+                -2.58974,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "TrackSuitJacket_Red",
+                "TrackSuitPants_Red",
+                "JoggingShoes_Red"
+            ]
+        },
+        {
             "Id": 4,
             "Name": "SurvivorF_Irena",
             "GivenName": "Olga",
@@ -252,6 +365,23 @@
             ],
             "Orientation": [
                 -125.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": -2,
+            "Name": "TraderPlus_BANK_ATM",
+            "GivenName": "ATM",
+            "Role": "EUR",
+            "Position": [
+                9188.3,
+                46.0038,
+                13028.0
+            ],
+            "Orientation": [
+                176.155,
                 0.0,
                 0.0
             ],
