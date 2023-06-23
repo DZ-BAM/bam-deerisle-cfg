@@ -235,7 +235,7 @@
                 13026.6
             ],
             "Orientation": [
-                125.3.0,
+                125.3,
                 0.0,
                 0.0
             ],
@@ -298,6 +298,27 @@
                 5849.0,
                 74.0,
                 3585.0
+            ],
+            "Orientation": [
+                360.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "TrackSuitJacket_Black",
+                "TrackSuitPants_Black",
+                "JoggingShoes_Black"
+            ]
+        },
+		{
+            "Id": 8,
+            "Name": "SurvivorM_Oliver",
+            "GivenName": "Joye",
+            "Role": "Boat Trader",
+            "Position": [
+                3776.77,
+                1.99601,
+                2431.6
             ],
             "Orientation": [
                 360.0,
