@@ -1,0 +1,4 @@
+************************** 2023-06-24T20:21:06+00:00 **************************
+2023-06-24T20:21:24+00:00 | [ERROR	] GameLabs API encountered an error while attempting to initiate the connection. Please contact CFTools Cloud support for more details.
+2023-06-24T20:21:30+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2023-06-24T20:22:03+00:00 | [INFO	] (Core) Attempting graceful exit
