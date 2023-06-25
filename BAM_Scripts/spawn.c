@@ -12,7 +12,7 @@
 const ref BAM_Clothing CLOTHING = new BAM_Clothing(
 	"ChernarusSportShirt",
 	"SlacksPants_Beige",
-	"jmc_Military_mountain_boots_black",
+	"WorkingBoots_Yellow",
 	"",
 	"",
 	"",
