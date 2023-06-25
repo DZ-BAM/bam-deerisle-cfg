@@ -3,7 +3,7 @@
     "VehiclesParts": [
         {
             "VehicleName": "OffroadHatchback",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -22,7 +22,7 @@
         },
         {
             "VehicleName": "OffroadHatchback_Blue",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -41,7 +41,7 @@
         },
         {
             "VehicleName": "OffroadHatchback_White",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -60,7 +60,7 @@
         },
         {
             "VehicleName": "OffroadHatchback_Green",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -79,7 +79,7 @@
         },
         {
             "VehicleName": "OffroadHatchback_GreenRust",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -98,7 +98,7 @@
         },
         {
             "VehicleName": "OffroadHatchback_BlueRust",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -117,7 +117,7 @@
         },
         {
             "VehicleName": "OffroadHatchback_WhiteRust",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -136,7 +136,7 @@
         },
         {
             "VehicleName": "Hatchback_02",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -157,7 +157,7 @@
         },
         {
             "VehicleName": "Hatchback_02_Blue",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -178,7 +178,7 @@
         },
         {
             "VehicleName": "Hatchback_02_Black",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -199,7 +199,7 @@
         },
         {
             "VehicleName": "Hatchback_02_RedRust",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -220,7 +220,7 @@
         },
         {
             "VehicleName": "Hatchback_02_BlueRust",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -241,7 +241,7 @@
         },
         {
             "VehicleName": "Hatchback_02_BlackRust",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -262,7 +262,7 @@
         },
         {
             "VehicleName": "CivilianSedan",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -283,7 +283,7 @@
         },
         {
             "VehicleName": "CivilianSedan_Black",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -304,7 +304,7 @@
         },
         {
             "VehicleName": "CivilianSedan_Wine",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -325,7 +325,7 @@
         },
         {
             "VehicleName": "CivilianSedan_White",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -346,7 +346,7 @@
         },
         {
             "VehicleName": "CivilianSedan_WineRust",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -367,7 +367,7 @@
         },
         {
             "VehicleName": "CivilianSedan_BlackRust",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -388,7 +388,7 @@
         },
         {
             "VehicleName": "Sedan_02",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -409,7 +409,7 @@
         },
         {
             "VehicleName": "Sedan_02_Grey",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -430,7 +430,7 @@
         },
         {
             "VehicleName": "Sedan_02_Red",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -451,7 +451,7 @@
         },
         {
             "VehicleName": "Sedan_02_Yellow",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -472,7 +472,7 @@
         },
         {
             "VehicleName": "Sedan_02_YellowBrightRust",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -493,7 +493,7 @@
         },
         {
             "VehicleName": "Sedan_02_RedRust",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -514,7 +514,7 @@
         },
         {
             "VehicleName": "Sedan_02_GreyRust",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -535,7 +535,7 @@
         },
         {
             "VehicleName": "Truck_01_Covered",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "TruckBattery",
                 "HeadlightH7",
@@ -554,7 +554,7 @@
         },
         {
             "VehicleName": "Truck_01_Covered_Blue",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "TruckBattery",
                 "HeadlightH7",
@@ -573,7 +573,7 @@
         },
         {
             "VehicleName": "Truck_01_Covered_Orange",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "TruckBattery",
                 "HeadlightH7",
@@ -592,7 +592,7 @@
         },
         {
             "VehicleName": "GunnerTruck",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -613,7 +613,7 @@
         },
         {
             "VehicleName": "CrSk_Land_Rover_Defender_110",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -634,7 +634,7 @@
         },
         {
             "VehicleName": "CrSk_Land_Rover_Defender_110_Green",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -655,7 +655,7 @@
         },
         {
             "VehicleName": "CrSk_Land_Rover_Defender_110_UN",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -676,7 +676,7 @@
         },
         {
             "VehicleName": "CrSk_BMW_525i_E34",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -698,7 +698,7 @@
         },
         {
             "VehicleName": "CrSk_BMW_525i_E34_Red",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -720,7 +720,7 @@
         },
         {
             "VehicleName": "CrSk_BMW_525i_E34_Black",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -742,7 +742,7 @@
         },
         {
             "VehicleName": "CrSk_BMW_525i_E34_Purple",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -764,7 +764,7 @@
         },
         {
             "VehicleName": "CrSk_BMW_525i_E34_Beater",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "SparkPlug",
                 "CarBattery",
@@ -997,7 +997,7 @@
         },
         {
             "VehicleName": "RFFSHeli_Bo105m",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1016,7 +1016,7 @@
         },
         {
             "VehicleName": "RFFSHeli_Bo105m_blackcamo",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1035,7 +1035,7 @@
         },
         {
             "VehicleName": "RFFSHeli_LittleBird",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1046,7 +1046,7 @@
         },
         {
             "VehicleName": "RFFSHeli_LittleBird_Camo",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1057,7 +1057,7 @@
         },
         {
             "VehicleName": "RFFSHeli_LittleBird_Desert",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1068,7 +1068,7 @@
         },
         {
             "VehicleName": "RFFSHeli_KA26",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1083,7 +1083,7 @@
         },
         {
             "VehicleName": "RFFSHeli_Bell429",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1103,7 +1103,7 @@
         },
         {
             "VehicleName": "RFFSHeli_Bell429_Police",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1123,7 +1123,7 @@
         },
         {
             "VehicleName": "RFFSHeli_Bell429_Medic",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1143,7 +1143,7 @@
         },
         {
             "VehicleName": "RFFSHeli_Bell429_ZS",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1163,7 +1163,7 @@
         },
         {
             "VehicleName": "RFFSHeli_Mi2",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1177,7 +1177,7 @@
         },
         {
             "VehicleName": "RFFSHeli_Mi2_Military",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1191,7 +1191,7 @@
         },
         {
             "VehicleName": "RFFSHeli_Mi2_Hornet",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1205,7 +1205,7 @@
         },
         {
             "VehicleName": "RFFSHeli_Apache",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1218,7 +1218,7 @@
         },
         {
             "VehicleName": "RFFSHeli_Apache_Winter",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1231,7 +1231,7 @@
         },
         {
             "VehicleName": "RFFSHeli_Apache_Desert",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1244,7 +1244,7 @@
         },
         {
             "VehicleName": "RFFSHeli_R22",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1257,7 +1257,7 @@
         },
         {
             "VehicleName": "RFFSHeli_R22_Red",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1270,7 +1270,7 @@
         },
         {
             "VehicleName": "RFFSHeli_R22_Black",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1283,7 +1283,7 @@
         },
         {
             "VehicleName": "RFFSHeli_Blackhawk",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1303,7 +1303,7 @@
         },
         {
             "VehicleName": "RFFSHeli_Blackhawk_Cargo",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1323,7 +1323,7 @@
         },
         {
             "VehicleName": "RFFSHeli_Blackhawk_Woodland",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1343,7 +1343,7 @@
         },
         {
             "VehicleName": "RFFSHeli_Blackhawk_blackblackhawk",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1363,7 +1363,7 @@
         },
         {
             "VehicleName": "RFFSHeli_Blackhawk_Budhawk",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1383,7 +1383,7 @@
         },
         {
             "VehicleName": "RFFSHeli_CH53e",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1397,7 +1397,7 @@
         },
         {
             "VehicleName": "RFFSHeli_CH47",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1411,7 +1411,7 @@
         },
         {
             "VehicleName": "RFFSHeli_EC135",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
                 "RFFSHeli_wiring_harness",
@@ -1429,7 +1429,7 @@
         },
 		{
             "VehicleName": "RFWC_Whaler",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "TruckBattery",
                 "SparkPlug"
@@ -1437,7 +1437,7 @@
        },
        {
             "VehicleName": "RFWC_CarpBoat",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "TruckBattery",
                 "SparkPlug"
@@ -1445,7 +1445,7 @@
         },
        {
             "VehicleName": "RFWC_CarpBoat_Rusty",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "TruckBattery",
                 "SparkPlug"
@@ -1453,7 +1453,7 @@
         },
        {
             "VehicleName": "RFWC_Zodiac_Orange",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "TruckBattery",
                 "SparkPlug"
@@ -1461,7 +1461,7 @@
         },
        {
             "VehicleName": "RFWC_Zodiac_Black",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "TruckBattery",
                 "SparkPlug"
@@ -1477,7 +1477,7 @@
         }	,
        {
             "VehicleName": "RFWC_DragBoat_Red",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "TruckBattery",
                 "SparkPlug"
@@ -1485,7 +1485,7 @@
         },
        {
             "VehicleName": "RFWC_Seadoo_Camo",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "TruckBattery",
                 "SparkPlug"
@@ -1493,7 +1493,7 @@
         },
        {
             "VehicleName": "RFWC_Seadoo_Orange",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "TruckBattery",
                 "SparkPlug"
@@ -1501,7 +1501,7 @@
         },
        {
             "VehicleName": "RFWC_Seadoo_Green",
-            "Height": 0,
+            "Height": 2,
             "VehicleParts": [
                 "TruckBattery",
                 "SparkPlug"
