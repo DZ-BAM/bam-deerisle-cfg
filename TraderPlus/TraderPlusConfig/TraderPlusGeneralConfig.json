@@ -208,7 +208,7 @@
             "GivenName": "Marissa",
             "Role": "Tool Trader",
             "Position": [
-                92129.9,
+                9212.9,
                 44.9595,
                 13024.4
             ],
@@ -448,6 +448,59 @@
                 0.0,
                 0.0
             ]
+        },
+		{
+            "ObjectName": "Land_cave_table",
+            "Position": [
+                9193.97,
+                46.1712,
+                12996
+            ],
+            "Orientation": [
+                6.58844,
+                0.0,
+                0.0
+            ]
+        },
+		{
+            "ObjectName": "Land_Misc_Well_pump_Yellow",
+            "Position": [
+                9202.84,
+                46.7671,
+                13040.3
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+		{
+            "ObjectName": "vbldr_fuelstation_feed",
+            "Position": [
+                9199.9,
+                46.0341,
+                12997.7
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+		{
+            "ObjectName": "MCK_KeyGrinder",
+            "Position": [
+                9194.8,
+                46.7257,
+                12995.9
+            ],
+            "Orientation": [
+                -83.4294,
+                0.0,
+                0.0
+            ]
         }
+    ]
     ]
 }
