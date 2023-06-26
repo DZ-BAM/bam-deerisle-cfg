@@ -15,3 +15,4 @@ VPPAdminTools/Permissions/
 users/
 eAI/eAIAdmins.json
 .vscode/
+.idea/
