@@ -27,10 +27,10 @@ class BAM_Clothing {
 
     void applyToPlayer(PlayerBase player) {
         player.RemoveAllItems();
-        this.addToInventoy(player.GetInventory());
+        this.addToInventory(player.GetInventory());
     }
 
-    void addToInventoy(GameInventory inventory) {
+    void addToInventory(GameInventory inventory) {
         if (this.top) {
             inventory.CreateInInventory(this.top);
         }
