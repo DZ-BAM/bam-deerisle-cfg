@@ -54,6 +54,7 @@
                 "PigSteakMeat,1,-1,0.75,400,100",
                 "BoarSteakMeat,1,-1,0.75,400,100",
                 "WolfSteakMeat,1,-1,0.75,1000,500",
+				"BearSteakMeat,1,-1,0.75,1500,750",
                 "DeerSteakMeat,1,-1,0.75,500,200",
                 "CowSteakMeat,1,-1,0.75,400,100",
                 "Sardines,1,-1,0.75,1000,500",
@@ -257,6 +258,10 @@
                 "MediumTent,1,-1,0,3000,300",
                 "CarTent,1,-1,0,10000,1000",
                 "LargeTent,1,-1,0,12000,1200",
+				"PartyTent,1,-1,0,6000,600",
+				"PartyTent_Blue,1,-1,0,6000,600",
+				"PartyTent_Brown,1,-1,0,6000,600",
+				"PartyTent_Lunapark,1,-1,0,6000,600",
                 "Msp_Greenhouse_Kit,1,-1,0,15000,2000",
                 "Msp_GreenhouseWood_Kit,1,-1,0,15000,2000",
                 "Msp_LargeAmmoBox,1,-1,0,500,100",
@@ -397,6 +402,8 @@
                 "TTC_M9,1,-1,1,5000,1000",
                 "TTC_44Magnum,1,-1,1,5000,1000",
                 "TTC_Deagle,1,-1,1,5000,1000",
+				"Deagle_Gold,1,-1,1,5000,1500",
+				"Deagle,1,-1,1,5000,1000",
 				"TTC_M9_Custom,1,-1,1,5000,1000"
             ]
         },
@@ -406,7 +413,11 @@
                 "Izh18,1,-1,1,4000,400",
                 "Mosin9130,1,-1,1,6000,600",
                 "CZ527,1,-1,1,5000,500",
-                "Winchester70,1,-1,1,6000,600",
+                "Winchester70,1,-1,1,8000,1000",
+				"TTC_M14_Camo,1,-1,1,8000,1000",
+				"TTC_M14_Snow,1,-1,1,8000,1000",
+				"TTC_M14,1,-1,1,8000,1000",
+				"TTC_M1Garand,1,-1,1,8000,1000",
                 "SKS,0.946014,1,-1,5000,500"
             ]
         },
@@ -621,6 +632,7 @@
             "CategoryName": "Magazines",
             "Products": [
                 "Mag_IJ70_8Rnd,1,-1,0,100,10",
+				"Mag_Deagle_9rnd,1,-1,0,100,10",
                 "Mag_CZ75_15Rnd,1,-1,0,100,10",
                 "Mag_Glock_15Rnd,1,-1,0,150,25",
                 "Mag_MKII_10Rnd,1,-1,0,100,10",
@@ -755,6 +767,7 @@
                 "TTC_300Cmag,1,-1,0,600,150",
                 "TTC_M24mag_5rnd,1,-1,0,1000,300",
                 "TTC_SCARHMag,1,-1,0,600,150",
+				"TTC_M14_Mag_20rnd,1,-1,0,600,150",
                 "TTC_MCX_Spear_Magazine_20rnd,1,-1,0,300,50",
                 "TTC_50Beo_mag,1,-1,0,5000,1000",
                 "TTC_DMR_556Pmag_100rnd,1,-1,0,600,150",
