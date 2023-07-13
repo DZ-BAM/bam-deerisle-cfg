@@ -94,7 +94,7 @@
     {
       "CategoryName": "Medical Supplies",
       "Products": [
-        "BandageDressing,1,-1,2,1000,100",
+        "BandageDressing,1,-1,-1,1000,100",
         "BloodTestKit,1,-1,0,500,50",
         "Thermometer,1,-1,0,100,10",
         "DisinfectantSpray,1,-1,500,500,50",
@@ -103,8 +103,8 @@
         "SalineBag,1,-1,0,1000,100",
         "BloodBagEmpty,1,-1,0,500,50",
         "FirstAidKit,1,-1,0,4000,400",
-        "GasMask_Filter,1,-1,0,3000,800",
-        "AntiChemInjector,1,-1,0,8000,3000"
+        "GasMask_Filter,1,-1,-1,3000,800",
+        "AntiChemInjector,1,-1,-1,8000,3000"
       ]
     },
     {
@@ -2383,7 +2383,7 @@
         "CP_CannabisSeedsPackBlackFrost,1,-1,1,-1,2000",
         "CP_CannabisBrickBlackFrost,1,-1,1,-1,30000",
         "CP_EmptyBag,1,-1,1,150,-1",
-        "CP_PlasticRoll,1,-1,1,500,-1"
+        "CP_PlasticRoll,1,-1,-1,500,-1"
       ]
     },
     {
